@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+<This is my new personal website. I am following the tutorial from https://alison.rbind.io/post/new-year-new-blogdown/#step-1-create-repo and still need to personalise it.
+
+!--
 **JolienNoels/joliennoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
