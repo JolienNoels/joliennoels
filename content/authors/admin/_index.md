@@ -43,6 +43,6 @@ title: Jolien Noels
 
 I am a young researcher interested in anything at the intersection of environmental economics, finance and urban economics. 
 
-I am currently working for the {{< staticref "https://www.oecd.org" "newtab" >}}OECD{{< /staticref >}} researching the net zero transition from a regional/urban perspective. Previously, I worked for the Transition Pathway Initiative (at the LSE's GRI) analysing companies' preparedness to transition to a low carbon economy. Investors use this research as a tool for climate action.
+I am currently working for the {{< staticref "https://www.oecd.org" "newtab" >}}OECD{{< /staticref >}} researching the net zero transition from a regional/urban perspective. Previously, I worked for the {{< staticref "https://www.transitionpathwayinitiative.org" "newtab">}}Transition Pathway Initiative{{< /staticref >}} (at the LSE's {{< staticref "https://www.lse.ac.uk/granthaminstitute/" "newtab" >}}GRI{{< /staticref >}}) analysing companies' preparedness to transition to a low carbon economy. Investors use this research as a tool for climate action.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
