@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Research"
+  name = "RESEARCH"
   url = "/publication"
   weight = 10
 
 [[main]]
-  name = "Presentations"
+  name = "PRESENTATIONS"
   url = "/project"
   weight = 20
 
 [[main]]
-  name = "Articles"
+  name = "ARTICLES"
   url = "/post"
   weight = 30
 
