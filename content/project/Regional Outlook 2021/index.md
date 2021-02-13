@@ -4,7 +4,7 @@ external_link: http://oecd.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Net zero transition from a regional and urban perspective.
 tags:
 - OECD
 title: External Project
