@@ -12,7 +12,7 @@ links:
 slides: example
 summary: Transition pathways of firms.
 tags:
-- Deep Learning
+- TPI
 title: Internal Project
 url_code: ""
 url_pdf: ""
