@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Articles
 ---
 **[De klimaatneutrale transitie als een hefboom voor een menselijkere economie](https://www.uantwerpen.be/nl/leerstoelen/economie-van-de-hoop/themacahier/)** [[PDF](http://joliennoels.github.io/files/Economie-van-de-hoop.pdf)] University of Antwerp and Trends, 01 December 2020
 

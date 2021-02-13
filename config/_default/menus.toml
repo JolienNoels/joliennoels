@@ -5,7 +5,7 @@
 
 [[main]]
   name = "RESEARCH"
-  url = "/publication"
+  url = "/research/"
   weight = 10
 
 [[main]]
