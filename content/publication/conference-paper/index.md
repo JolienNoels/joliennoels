@@ -8,14 +8,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
+- Valentin Jahn
 date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ""
+#   preview_only: false
 links:
 - name: Custom Link
   url: http://example.org
@@ -34,7 +34,7 @@ tags:
 title: An example conference paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://joliennoels.github.io/files/Autos-Methodology-Nov-2018.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""
