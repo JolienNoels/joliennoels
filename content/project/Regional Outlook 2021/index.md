@@ -7,5 +7,5 @@ image:
 summary: Net zero transition of regions and cities
 tags:
 - OECD
-title: External Project
+title: Regional Outlook 2021
 ---

@@ -13,7 +13,7 @@ slides: example
 summary: Transition pathways of firms.
 tags:
 - TPI
-title: Internal Project
+title: State of Transition 2020
 url_code: ""
 url_pdf: ""
 url_slides: ""
