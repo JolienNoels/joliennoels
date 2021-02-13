@@ -1,11 +1,5 @@
 ---
 title: Presentations
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
 ---
 **Understanding a company’s strategy on managing climate risks based on disclosure**, Colombian Climate Assets Owners Disclosure Initiative virtual workshop, November 24, 2020
 
