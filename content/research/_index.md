@@ -10,7 +10,7 @@ permalink: /research/
  Transition Pathway Initiative, 2020  
  Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-06/fossil-fuel-firms-aren-t-doing-enough-on-emissions-funds-say), [FT](https://www.ft.com/content/16091645-98b3-4041-9ca2-053fb60181ba)
 
- **[Carbon Performance assessment in the diversified mining sector: note on methodology](http://joliennoels.github.io/files/Diversified-Mining-Methodology-Oct-2020.pdf)**  
+ **[Carbon Performance assessment in the diversified mining sector: note on methodology](http://joliennoels.netlify.app/files/Diversified-Mining-Methodology-Oct-2020.pdf)**  
    Joint with Simon Dietz, Annabel Farr, Dan Gardiner and Valentin Jahn  
    Transition Pathway Initiative, 2020
 
