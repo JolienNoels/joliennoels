@@ -6,33 +6,34 @@ date: "2017-06-30T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: ''
+# links:
+# - name: Custom Link
+#   url: http://example.org
+projects:
+- internal-project
+publication: ""
 publication_short: ""
 publication_types:
-- "2"
-publishDate: "2017-06-30T00:00:00Z"
+- "3"
+publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Master thesis
-title: The current state of robo-advice: the financial model behind the hype
-url_code: ""
-url_dataset: ""
+- Master dissertation
+title: "The current state of robo-advice: the financial model behind the hype"
+url_code: ''
+url_dataset: ''
 url_pdf: ""
-url_poster: ""
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: ""
+url_source: ''
+url_video: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
