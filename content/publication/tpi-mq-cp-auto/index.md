@@ -2,9 +2,8 @@
 abstract: 
 authors:
 - Simon Dietz
-- William Irwin
 - Valentin Jahn
-- Bruno Rauis
+- Michal Nachmany
 - admin
 date: "2018-10-25T00:00:00Z"
 doi: ""
@@ -27,9 +26,9 @@ slides:
 summary: Master dissertation.
 tags:
 - Master dissertation
-title: "Carbon Performance assessment of automobile manufacturers: note on methodology"
+title: "Management Quality and Carbon Performance of automobile manufacturers: November 2018 update"
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
 url_pdf: ""
 url_poster: ''
 url_project: ""
