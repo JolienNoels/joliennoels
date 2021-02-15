@@ -24,13 +24,14 @@ publication_types:
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: Master dissertation.
+summary: TPI.
 tags:
-- Master dissertation
+- TPI
+- methodology
 title: "Carbon Performance assessment of automobile manufacturers: note on methodology"
 url_code: ''
 url_dataset: ''
-url_pdf: ""
+url_pdf: "/files/Autos-Methodology-Nov-2018.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""

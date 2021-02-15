@@ -23,13 +23,13 @@ publication_types:
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: Master dissertation.
+summary: TPI
 tags:
-- Master dissertation
+- TPI
 title: "Management Quality and Carbon Performance of automobile manufacturers: November 2018 update"
 url_code: ''
 url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
-url_pdf: ""
+url_pdf: "/files/Autos-Results-Nov-2018.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""
