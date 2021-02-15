@@ -17,11 +17,10 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "7"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Master dissertation.
 tags:
 - Master dissertation
 title: "The current state of robo-advice: the financial model behind the hype"
@@ -34,9 +33,3 @@ url_slides: ""
 url_source: ''
 url_video: ''
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
