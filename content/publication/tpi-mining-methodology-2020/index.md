@@ -26,7 +26,7 @@ tags:
 - TPI
 title: "Carbon Performance assessment in the diversified mining sector: note on methodology"
 url_code: ''
-url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
+url_dataset: ''
 url_pdf: "/files/Diversified-Mining-Methodology-Oct-2020.pdf"
 url_poster: ''
 url_project: ""

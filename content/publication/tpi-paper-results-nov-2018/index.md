@@ -6,7 +6,7 @@ authors:
 - Valentin Jahn
 - Bruno Rauis
 - admin
-date: "2018-10-25T00:00:00Z"
+date: "2018-11-25T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -27,14 +27,13 @@ slides:
 summary: TPI.
 tags:
 - TPI
-- methodology
-title: "Carbon Performance assessment of automobile manufacturers: note on methodology"
+title: "Management Quality and Carbon Performance of paper producers: November 2018 update"
 url_code: ''
 url_dataset: ''
-url_pdf: "/files/Autos-Methodology-Nov-2018.pdf"
+url_pdf: "/files/Paper-Results-Nov-2018.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: ''
+url_source: 'https://www.transitionpathwayinitiative.org/publications'
 url_video: ''
 ---
