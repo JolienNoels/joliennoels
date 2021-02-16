@@ -41,6 +41,6 @@ url_pdf: "/files/Energy-Sectors_results-Sep-2020.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: ''
+url_source: 'https://www.transitionpathwayinitiative.org/publications'
 url_video: ''
 ---
