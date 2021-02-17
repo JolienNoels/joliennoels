@@ -3,6 +3,7 @@ header:
   caption: ""
   image: ""
 
+type: widget_page
 layout: pages
 
 title: Research
