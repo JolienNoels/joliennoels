@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: The Economist
+- name: The Economist article
   url: https://www.economist.com/special-report/2020/09/17/costs-of-carbon
 projects:
 - internal-project

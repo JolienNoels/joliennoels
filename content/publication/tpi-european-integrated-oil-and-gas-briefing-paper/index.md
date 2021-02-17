@@ -13,15 +13,15 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Bloomberg 
+- name: Bloomberg article
   url: https://www.bloomberg.com/news/articles/2020-05-11/big-oil-s-climate-targets-not-enough-for-paris-goals-funds-say?sref=Iwk4m2bA
-- name: BBC
+- name: BBC article
   url: https://www.bbc.com/news/science-environment-52624695
-- name: The Times
+- name: The Times article
   url: https://www.thetimes.co.uk/article/bp-must-raise-game-to-meet-climate-pledge-says-report-wp5c68brb
-- name: Reuters
+- name: Reuters article
   url: https://www.reuters.com/article/oil-carbon-companies-targets/shell-eni-lead-oil-majors-climate-ambitions-but-still-fall-short-investors-idUSL8N2CT3TY
-- name: NRC
+- name: NRC article
   url: https://www.nrc.nl/nieuws/2020/05/18/van-de-oliesector-wordt-meer-verwacht-dan-klimaatdoelen-a3999996?utm_source=SIM&utm_medium=email&utm_campaign=Klimaat&utm_content=&utm_term=20200523
 projects:
 - internal-project

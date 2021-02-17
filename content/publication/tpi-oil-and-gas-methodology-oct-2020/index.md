@@ -2,15 +2,14 @@
 abstract: 
 authors:
 - Simon Dietz
+- Dan Gardiner
 - Valentin Jahn
-- Michal Nachmany
 - admin
-- Rory Sullivan
-date: "2019-02-25T00:00:00Z"
+date: "2020-10-25T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects:
@@ -21,13 +20,14 @@ publication_types:
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: TPI.
+summary: TPI
 tags:
 - TPI
-title: "Management Quality and Carbon Performance of aluminium producers"
+- methodology
+title: "Carbon Performance assessment of oil & gas producers: note on methodology"
 url_code: ''
-url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
-url_pdf: "/files/Aluminium-Results-Feb-2019.pdf"
+url_dataset: ''
+url_pdf: "/files/Oil-and-Gas-Methodology-Oct-2020.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""

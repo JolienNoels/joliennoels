@@ -14,15 +14,15 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: FT
+- name: FT article
   url: https://www.ft.com/content/2c44d5d2-e9b7-11e9-a240-3b065ef5fc55
-- name: Reuters
+- name: Reuters article
   url: https://www.reuters.com/article/uk-climate-change-summit-investors/investors-turn-heat-on-big-oil-ahead-of-u-n-climate-summit-idUKKBN1W22SL?edition-redirect=uk
-- name: Carbon Brief
+- name: Carbon Brief article
   url: https://www.carbonbrief.org/daily-brief/leading-countries-blocked-from-speaking-at-un-climate-summit
-- name: Business Green
+- name: Business Green article
   url: https://www.businessgreen.com/news-analysis/3081680/investors-call-for-greater-transparency-over-climate-plans-and-lobbying-activity-as-climate-risk-fears-grow
-- name: AP
+- name: AP article
   url: https://apnews.com/article/8bcebf4630584234b45654ac26374d2c
 projects:
 - internal-project

@@ -13,9 +13,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-# links:
-# - name: Custom Link
-#   url: http://example.org
 projects:
 - internal-project
 publication: ""
