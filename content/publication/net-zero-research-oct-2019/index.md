@@ -2,11 +2,10 @@
 abstract: 
 authors:
 - Simon Dietz
-- Rhoda Byrne
 - Valentin Jahn
-- Michal Nachmany
 - admin
-- Rory Sullivan
+- Rupert Stuart-Smith
+- Cameron Hepburn
 date: "2019-10-25T00:00:00Z"
 doi: ""
 featured: false
@@ -26,7 +25,7 @@ summary: TPI.
 tags:
 - TPI
 - Oxford
-title: "Management Quality and Carbon Performance of transport companies: December 2019"
+title: "A survey of the net zero positions of the world’s largest energy companies"
 url_code: ''
 url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
 url_pdf: "/files/Net-Zero-Research-Oct-2019.pdf"
