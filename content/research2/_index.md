@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 
-widget: pages
+layout: pages
 
 title: Research
 view: 4
