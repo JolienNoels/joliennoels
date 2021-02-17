@@ -25,7 +25,7 @@ summary: TPI
 tags:
 - TPI
 - methodology
-title: "TPI methodology and indicators report: Version 3.0"
+title: "Carbon Performance assessment in the diversified mining sector: discussion paper"
 url_code: ''
 url_dataset: ''
 url_pdf: "/files/Diversified-Miners-Discussion-Paper.pdf"
