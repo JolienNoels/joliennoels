@@ -2,18 +2,17 @@
 abstract: 
 authors:
 - Simon Dietz
+- Annabel Farr
+- Dan Gardiner
 - Valentin Jahn
 - admin
-date: "2019-03-25T00:00:00Z"
+date: "2020-05-26T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
-# links:
-# - name: Custom Link
-#   url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -22,14 +21,14 @@ publication_types:
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: TPI.
+summary: TPI
 tags:
 - TPI
 - methodology
-title: "Carbon Performance assessment of aluminium producers: note on methodology"
+title: "TPI methodology and indicators report: Version 3.0"
 url_code: ''
 url_dataset: ''
-url_pdf: "/files/Aluminium-Methodology-Feb-2019.pdf"
+url_pdf: "/files/Diversified-Miners-Discussion-Paper.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""

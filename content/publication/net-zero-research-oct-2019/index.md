@@ -2,18 +2,18 @@
 abstract: 
 authors:
 - Simon Dietz
+- Rhoda Byrne
 - Valentin Jahn
+- Michal Nachmany
 - admin
-date: "2019-03-25T00:00:00Z"
+- Rory Sullivan
+date: "2019-10-25T00:00:00Z"
 doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-# links:
-# - name: Custom Link
-#   url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -25,11 +25,11 @@ slides:
 summary: TPI.
 tags:
 - TPI
-- methodology
-title: "Carbon Performance assessment of aluminium producers: note on methodology"
+- Oxford
+title: "Management Quality and Carbon Performance of transport companies: December 2019"
 url_code: ''
-url_dataset: ''
-url_pdf: "/files/Aluminium-Methodology-Feb-2019.pdf"
+url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
+url_pdf: "/files/Net-Zero-Research-Oct-2019.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""

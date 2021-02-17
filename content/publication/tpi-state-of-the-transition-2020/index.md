@@ -2,18 +2,23 @@
 abstract: 
 authors:
 - Simon Dietz
+- Rhoda Byrne
+- Dan Gardiner
+- Glen Gostlow
 - Valentin Jahn
+- Michal Nachmany
 - admin
-date: "2019-03-25T00:00:00Z"
+- Rory Sullivan
+date: "2019-03-26T00:00:00Z"
 doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: The Economist
+  url: https://www.economist.com/special-report/2020/09/17/costs-of-carbon
 projects:
 - internal-project
 publication: ""
@@ -25,11 +30,10 @@ slides:
 summary: TPI.
 tags:
 - TPI
-- methodology
-title: "Carbon Performance assessment of aluminium producers: note on methodology"
+title: "TPI State of Transition Report 2020"
 url_code: ''
-url_dataset: ''
-url_pdf: "/files/Aluminium-Methodology-Feb-2019.pdf"
+url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
+url_pdf: "/files/TPI-State-of-the-Transition-2020.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""

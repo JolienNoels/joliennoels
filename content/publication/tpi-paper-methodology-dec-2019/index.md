@@ -2,18 +2,17 @@
 abstract: 
 authors:
 - Simon Dietz
+- William Irwin
 - Valentin Jahn
+- Bruno Rauis
 - admin
-date: "2019-03-25T00:00:00Z"
+date: "2019-12-25T00:00:00Z"
 doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-# links:
-# - name: Custom Link
-#   url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -26,10 +25,10 @@ summary: TPI.
 tags:
 - TPI
 - methodology
-title: "Carbon Performance assessment of aluminium producers: note on methodology"
+title: "Carbon Performance assessment of paper producers: note on methodology"
 url_code: ''
 url_dataset: ''
-url_pdf: "/files/Aluminium-Methodology-Feb-2019.pdf"
+url_pdf: "/files/Paper-Methodology-Dec-2019.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""
