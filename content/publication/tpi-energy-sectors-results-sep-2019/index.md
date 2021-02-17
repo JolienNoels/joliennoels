@@ -2,11 +2,13 @@
 abstract: 
 authors:
 - Simon Dietz
-- William Irwin
+- Dan Gardiner
+- Glen Gostlow
 - Valentin Jahn
-- Bruno Rauis
+- Michal Nachmany
 - admin
-date: "2018-11-25T00:00:00Z"
+- Rory Sullivan
+date: "2019-09-18T00:00:00Z"
 doi: ""
 featured: false
 image:
