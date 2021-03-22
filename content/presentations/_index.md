@@ -1,6 +1,8 @@
 ---
 title: Presentations
 ---
+**Indicators of progress in the net zero transition, local wellbeing and employment vulnerabilities**, OECD, March 17, 2021
+
 **Understanding a company’s strategy on managing climate risks based on disclosure**, Colombian Climate Assets Owners Disclosure Initiative virtual workshop, November 24, 2020
 
 **Comparing European Oil & Gas decarbonization targets: challenges & insights from TPI briefing paper** J.P. Morgan Energy Transition virtual Road Show, June 5, 2020
