@@ -1,12 +1,11 @@
 ---
-widget = "pages" # See https://sourcethemes.com/academic/docs/page-builder/ 
-headless = true # This file represents a page section. 
-active = true # Activate this widget? true/false 
-weight = 65 # Order that this section will appear.
+widget: pages
+active: true
+headless: true
+weight: 90
 
-title = "Projects" subtitle = ""
-type: widget_page
-layout: pages
+title: Research
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -32,3 +31,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
