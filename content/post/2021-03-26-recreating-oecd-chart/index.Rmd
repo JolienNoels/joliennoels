@@ -36,9 +36,8 @@ library(ggplot2)
 
 I have saved the data file to my Github. You can download it [here]().
 
-```{r data-import}
-urlfile="https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-03-26-recreating-oecd-chart/data.csv"
-data <- read_csv(url(urlfile))
+```{r data-import, message=FALSE, warning=FALSE}
+data <- read_csv("https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-03-26-recreating-oecd-chart/data.csv")
 ```
 
 Let's take a quick look at the data.
