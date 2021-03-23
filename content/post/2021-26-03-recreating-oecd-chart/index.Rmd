@@ -32,7 +32,6 @@ First we
 ```{r load-packages, message=FALSE}
 library (readr)
 library(ggplot2)
-library(dplyr)
 ```
 
 I have saved the data file to my Github. You can download it [here]().
