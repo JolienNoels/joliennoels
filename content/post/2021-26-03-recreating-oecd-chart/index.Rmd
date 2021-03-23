@@ -30,7 +30,7 @@ There are a few concepts that are usefull to understand before we start making t
 First we 
 
 ```{r load-packages, message=FALSE}
-library(readxl)
+library (readr)
 library(ggplot2)
 library(dplyr)
 ```
@@ -38,8 +38,8 @@ library(dplyr)
 I have saved the data file to my Github. You can download it [here]().
 
 ```{r data-import}
-x <- getURL("https://raw.github.com/JolienNoels/joliennoels/tree/main/content/post/2021-26-03-recreating-oecd-chart/data.csv")
-data <- read_excel(x)
+urlfile="https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-26-03-recreating-oecd-chart/data.csv"
+data <- read_csv(url(urlfile))
 ```
 
 Let's take a quick look at the data.

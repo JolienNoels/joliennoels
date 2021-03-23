@@ -21,11 +21,19 @@ Gender gap in earnings of full-time employees (15 years and over), 2005 and 2014
 <h2>Before we get started</h2>
 <p>There are a few concepts that are usefull to understand before we start making the chart...</p>
 <p>First we</p>
-<pre class="r"><code>library(readxl)
+<pre class="r"><code>library (readr)
 library(ggplot2)
 library(dplyr)</code></pre>
 <p>I have saved the data file to my Github. You can download it <a href="">here</a>.</p>
-<pre class="r"><code>data &lt;- readxl::read_excel(&quot;data.xlsx&quot;)</code></pre>
+<pre class="r"><code>urlfile=&quot;https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-26-03-recreating-oecd-chart/data.csv&quot;
+data &lt;- read_csv(url(urlfile))</code></pre>
+<pre><code>## Parsed with column specification:
+## cols(
+##   country = col_character(),
+##   iso3 = col_character(),
+##   `2005` = col_double(),
+##   `2014` = col_double()
+## )</code></pre>
 <p>Let's take a quick look at the data.</p>
 <pre class="r"><code>head(data)</code></pre>
 <pre><code>## # A tibble: 6 x 4
