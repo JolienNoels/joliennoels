@@ -1,0 +1,105 @@
+---
+title: "Recreating an OECD chart in R"
+author: "Jolien Noels"
+date: "2021-03-26"
+output: html_document
+categories: ["R"]
+tags: ["R", "plot","OECD"]
+slug: "2021-03-26-recreating-oecd-chart"
+---
+
+
+
+<div id="example" class="section level2">
+<h2>Example OECD chart</h2>
+<p>A good way to familiarise yourself with R is by recreating charts that you may otherwise make in Excel. In the spirit of gender month at the OECD, I have chosen a chart on the gender wage gap in OECD countries. The following chart is from the <a href="https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2018_empl_outlook-2018-en">OECD Employment Outlook 2018</a>.</p>
+<p><strong>Gender disparities in full-time earnings remain considerable</strong><br />
+Gender gap in earnings of full-time employees (15 years and over), 2005 and 2014 <img src="01-oecd-chart.png" /></p>
+<p>We will recreate this chart but with more up-to-date data. The data can be donwloaded from <a href="https://stats.oecd.org/index.aspx?queryid=64160">OECD Statistics</a>. Instead of the years 2005 and 2014, we will use the years 2009 and 2018.</p>
+</div>
+<div id="before-we-get-started" class="section level2">
+<h2>Before we get started</h2>
+<p>There are a few concepts that are usefull to understand before we start making the chart...</p>
+<p>First we</p>
+<pre class="r"><code>library(readxl)
+library(ggplot2)
+library(dplyr)</code></pre>
+<p>I have saved the data file to my Github. You can download it <a href="">here</a>.</p>
+<pre class="r"><code>data &lt;- readxl::read_excel(&quot;data.xlsx&quot;)</code></pre>
+<p>Let's take a quick look at the data.</p>
+<pre class="r"><code>head(data)</code></pre>
+<pre><code>## # A tibble: 6 x 4
+##   country     iso3  `2005` `2014`
+##   &lt;chr&gt;       &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt;
+## 1 Belgium     BEL    11.5    3.30
+## 2 Hungary     HUN     4.02   3.77
+## 3 Luxembourg  LUX     8.20   4.14
+## 4 Slovenia    SVN     7.13   5.00
+## 5 Italy       ITA     7.69   5.56
+## 6 New Zealand NZL     9.61   6.08</code></pre>
+</div>
+<div id="making-a-basic-chart" class="section level2">
+<h2>Making a basic chart</h2>
+<p>Let's start with a basic scatter plot.</p>
+<pre class="r"><code>ggplot(data = data, aes(x = iso3, y = `2005`)) +
+  geom_point()</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/scatter-1.png" width="672" /></p>
+<p>Now let's try a simple bar chart.</p>
+<pre class="r"><code>ggplot(data = data, aes(x = iso3, y = `2014`)) +
+  geom_bar(stat = &quot;unique&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/bar-1.png" width="672" /></p>
+<p>Since the the scatter and bar plot have the same values on the x- and y-axis, we can combine both into one plot.</p>
+<pre class="r"><code>ggplot(data = data, aes(x = iso3) ) +
+  geom_bar(aes(y = `2014`), stat = &quot;unique&quot;) +
+  geom_point(aes(y = `2005`))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/basic-plot-1.png" width="672" /></p>
+</div>
+<div id="improving-the" class="section level2">
+<h2>Improving the</h2>
+<p>We have made a basic chart, but it is not yet easy to read. A first step we can do is reordering the bars and changing the titles of the axises.</p>
+<pre class="r"><code>ggplot(data, aes(x = reorder(iso3, `2014`, ascend = TRUE))) +
+  geom_bar(aes(y = `2014`), stat = &quot;unique&quot;) +
+  geom_point(aes(y = `2005` )) +
+  labs(x = &quot;&quot;,
+       y = &quot;%&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/plot-01-1.png" width="672" /></p>
+<p>We can change the dots to other shapes. Our options are a follows:</p>
+<pre class="r"><code>ggplot(data, aes(x = reorder(iso3, `2014`, ascend = TRUE))) +
+  geom_bar(aes(y = `2014`), stat = &quot;unique&quot;) +
+  geom_point(aes(y = `2005`), shape = 23, size = 2, fill = &quot;white&quot;) +
+  labs(x = &quot;&quot;,
+       y = &quot;%&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/plot-02-1.png" width="672" /></p>
+</div>
+<div id="making-the-chart-look-nice" class="section level2">
+<h2>Making the chart look nice</h2>
+<pre class="r"><code>ggplot(data, aes(x = reorder(iso3, `2014`, ascend = TRUE))) +
+  geom_bar(aes(y = `2014`, fill = &quot;#3F6CB0&quot;), stat = &quot;unique&quot;, colour = &quot;black&quot;) +
+  geom_point(aes(y = `2005`, color = &quot;#96A9DC&quot;), shape = 23, size = 2, fill = &quot;white&quot;) +
+  labs(x = &quot;&quot;,
+       y = &quot;%&quot;,
+       title = &quot;Gender disparities in full-time earnings remain considerable&quot;,
+       subtitle = &quot;Gender gap in earnings of full-time employees (15 years and over), 2005 and 2014&quot;)  +
+  scale_y_continuous(limits=c(0,45), expand=c(0,0)) +
+  scale_fill_manual(name = &quot;&quot;,
+                    labels = c(&#39;2014&#39;), 
+                    values = c(&quot;#3F6CB0&quot;)) +
+  scale_color_manual(name = &quot;&quot;,
+                     labels = (&quot;2005&quot;), 
+                     values = &quot;black&quot;) +
+  guides(color = guide_legend(order = 2, reverse=TRUE),
+         fill = guide_legend(order = 1, reverse=TRUE)) +
+  theme(legend.position = &quot;top&quot;,
+        axis.text.x = element_text(size=10, colour = &quot;black&quot;, angle = 45, hjust = 1),
+        axis.text.y = element_text(size=12, colour = &quot;black&quot;, angle = 90),
+        axis.title.y = element_text(hjust = 1,size=12),
+        axis.line = element_line(colour = &quot;black&quot;),
+        axis.ticks.x = element_blank(),
+        legend.text = element_text(size=12),
+        legend.key = element_rect(color = &quot;#E6E6E6&quot;, fill = &quot;#E6E6E6&quot;),
+        legend.background = element_rect(fill=&quot;#E6E6E6&quot;),
+        legend.box.background = element_rect(color = &quot;#E6E6E6&quot;,fill = &quot;#E6E6E6&quot;),
+        legend.box.margin = margin(0,0,0,0,&quot;cm&quot;)) </code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/final-plot-1.png" width="672" /></p>
+<p>That is the final chart. If you'd like to learn more about make graphs in R, the <a href="https://r4ds.had.co.nz/index.html">R for data science book</a> is a great resource.</p>
+</div>
