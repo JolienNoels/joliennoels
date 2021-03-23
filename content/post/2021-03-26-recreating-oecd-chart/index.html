@@ -24,7 +24,7 @@ Gender gap in earnings of full-time employees (15 years and over), 2005 and 2014
 <pre class="r"><code>library (readr)
 library(ggplot2)</code></pre>
 <p>I have saved the data file to my Github. You can download it <a href="">here</a>.</p>
-<pre class="r"><code>data &lt;- read_csv(&quot;https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-03-26-recreating-oecd-chart/data.csv&quot;)</code></pre>
+<pre class="r"><code>data &lt;- readr::read_csv(&quot;https://raw.githubusercontent.com/JolienNoels/joliennoels/main/content/post/2021-03-26-recreating-oecd-chart/data.csv&quot;)</code></pre>
 <p>Let's take a quick look at the data.</p>
 <pre class="r"><code>head(data)</code></pre>
 <pre><code>## # A tibble: 6 x 4
