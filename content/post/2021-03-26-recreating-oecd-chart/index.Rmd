@@ -37,7 +37,7 @@ library(ggplot2)
 I have saved the data file to my Github. You can download it [here]().
 
 ```{r data-import, message=FALSE, warning=FALSE}
-data <- readr::read_csv("https://raw.githubusercontent.com/JolienNoels/joliennoels/main/static/data/PECD_gender_wage_gap.csv")
+data <- readr::read_csv("https://raw.githubusercontent.com/JolienNoels/joliennoels/main/static/data/OECD_gender_wage_gap.csv")
 ```
 
 Let's take a quick look at the data.
