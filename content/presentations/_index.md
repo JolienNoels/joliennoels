@@ -1,7 +1,9 @@
 ---
 title: Presentations
 ---
-**Indicators of progress in the net zero transition, local wellbeing and employment vulnerabilities**, OECD, March 17, 2021
+**Recreating an OECD chart in R**, OECD R-Ladies Lunch Hour, March 26, 2021
+
+**Indicators of progress in the net zero transition, local wellbeing and employment vulnerabilities**, OECD seminar, March 17, 2021
 
 **Understanding a company’s strategy on managing climate risks based on disclosure**, Colombian Climate Assets Owners Disclosure Initiative virtual workshop, November 24, 2020
 
