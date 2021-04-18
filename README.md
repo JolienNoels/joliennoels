@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-This is my new personal website. I am following the tutorial from https://alison.rbind.io/post/new-year-new-blogdown and still need to personalise it.
+This is my new personal website. 
+
+Thank you to Alison fHill or her tutorial https://alison.rbind.io/post/new-year-new-blogdown.
 
 <!--
 **JolienNoels/joliennoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
