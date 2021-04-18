@@ -2,7 +2,7 @@
 
 This is my new personal website. 
 
-Thank you to Alison fHill or her tutorial https://alison.rbind.io/post/new-year-new-blogdown.
+Thank you to Alison fill or her tutorial https://alison.rbind.io/post/new-year-new-blogdown.
 
 <!--
 **JolienNoels/joliennoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
