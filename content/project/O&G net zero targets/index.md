@@ -4,7 +4,7 @@ external_link: https://joliennoels.netlify.app/files/European-Integrated-Oil-and
 image:
   caption: 
   focal_point: Smart
-summary: Assessing net zero targets of European O&G ccompanies.
+summary: Assessing net zero targets of European Oil & Gas companies.
 tags:
 - TPI
 title: O&G net zero* targets
