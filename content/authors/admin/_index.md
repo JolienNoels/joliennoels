@@ -22,21 +22,21 @@ highlight_name: false
 #  url: https://www.stanford.edu/
 role: Economist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+#- icon: envelope
+#  icon_pack: fas
+#  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joliennoels
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JolienNoels
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/joliennoels
+  link: https://www.linkedin.com/in/jolien-noels
 superuser: true
 title: Jolien Noels
 ---
