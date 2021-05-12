@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
-This is my new personal website. 
+My name is Jolien Noels. I am a young researcher interested in anything at the intersection of environmental economics, finance and urban economics. I enjoy learning R and Python.
 
-Thank you to Alison Hill for her tutorial https://alison.rbind.io/post/new-year-new-blogdown.
 
 <!--
 **JolienNoels/joliennoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you to Alison Hill for her tutorial https://alison.rbind.io/post/new-year-new-blogdown.
