@@ -17,9 +17,9 @@ publication_types:
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: TPI.
+summary: OECD.
 tags:
-- TPI
+- OECD
 title: "OECD Regional Outlook 2021: Addressing COVID-19 and Moving to Net Zero Greenhouse Gas Emissions"
 url_code: ''
 url_dataset: ''
