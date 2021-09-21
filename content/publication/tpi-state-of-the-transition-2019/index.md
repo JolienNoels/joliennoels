@@ -38,7 +38,7 @@ tags:
 title: "TPI State of Transition Report 2019"
 url_code: ''
 url_dataset: 'https://www.transitionpathwayinitiative.org/sectors'
-url_pdf: "/TPI-State-of-the-Transition-2019.pdf"
+url_pdf: "https://joliennoels.github.io/files/TPI-State-of-the-Transition-2019.pdf"
 url_poster: ''
 url_project: ""
 url_slides: ""
