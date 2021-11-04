@@ -17,7 +17,7 @@ projects:
 publication: "Science, 374(6566), 405-408"
 publication_short: ""
 publication_types:
-- "4"
+- "2"
 publishDate: "2021-10-22T00:00:00Z"
 slides: 
 summary: TPI
