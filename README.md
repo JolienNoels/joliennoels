@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Jolien Noels. I am a young researcher interested in anything at the intersection of environmental economics, finance and urban economics. I enjoy learning R and Python.
+My name is Jolien Noels. I am an economist interested in anything at the intersection of climate change, finance and regional analysis. I enjoy learning R and Python.
 
 
 <!--
