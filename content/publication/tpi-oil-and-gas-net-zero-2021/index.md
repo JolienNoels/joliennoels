@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects:
 - external-project
-publication: "Science, 374(6566), 405-408"
+publication: "**Science**"
 publication_short: ""
 publication_types:
 - "2"
