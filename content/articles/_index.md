@@ -1,6 +1,8 @@
 ---
 title: Articles
 ---
+**[Climate action needs local leaders: can they rise to the challenge?](https://oecdcogito.blog/2022/03/01/climate-action-needs-local-leaders-can-they-rise-to-the-challenge/)**  OECD CFE Cogito, 01 March 2022
+
 **[De klimaatneutrale transitie als een hefboom voor een menselijkere economie](https://www.uantwerpen.be/nl/leerstoelen/economie-van-de-hoop/themacahier/)** [[PDF](http://joliennoels.github.io/files/Economie-van-de-hoop.pdf)] University of Antwerp and Trends, 01 December 2020
 
 **[Klimaattransitie: wat kunnen bedrijven doen?](https://www.etion.be/kennisbank/klimaattransitie-wat-kunnen-bedrijven-doen)** [[PDF](http://joliennoels.github.io/files/in117_klimaattransitie-wat-kunnen-bedrijven-doen.pdf)] ETION, 27 Augustus 2020
