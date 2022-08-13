@@ -2,11 +2,14 @@ theme: starter-academic
 title: Jolien Noels
 baseurl: 'joliennoels.com'
 copyright: ''
+
 enableGitInfo: no
+
 defaultContentLanguage: en
 hasCJKLanguage: no
 defaultContentLanguageInSubdir: no
 removePathAccents: yes
+
 summaryLength: 30
 paginate: 10
 enableEmoji: yes
@@ -18,12 +21,14 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
+
 permalinks:
   authors: /author/:slug/
   categories: /category/:slug/
   event: /talk/:slug/
   publication_types: /publication-type/:slug/
   tags: /tag/:slug/
+
 outputs:
   home:
     - HTML
@@ -33,13 +38,16 @@ outputs:
   section:
     - HTML
     - RSS
+
 mediaTypes:
   application/manifest+json:
     suffixes: webmanifest
+
 outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
+
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -52,13 +60,15 @@ markup:
     startLevel: 2
 imaging:
   anchor: smart
-  quality: 75
+  quality: 90
   resampleFilter: lanczos
+
 taxonomies:
   author: authors
   category: categories
   publication_type: publication_types
   tag: tags
+
 related:
   includeNewer: yes
   indices:
