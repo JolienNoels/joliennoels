@@ -1,6 +1,9 @@
 ---
 title: Presentations
 ---
+**Workshop on regional industrial transitions to climate neutrality**  
+European Commission, September 12, 2022
+
 **Launch of JTP Working Groups on carbon-intensive regions**  
 Just Transition Platform Meeting, November 15, 2021
 
