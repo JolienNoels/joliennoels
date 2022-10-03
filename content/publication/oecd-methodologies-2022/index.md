@@ -4,7 +4,7 @@ authors:
 - Jolien Noels
 - Raphaël Jachnik
 date: "2022-10-04T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1787/d12005e7-en"
 featured: false
 image:
   caption: ''
@@ -21,7 +21,7 @@ slides:
 summary: OECD.
 tags:
 - OECD
-title: "Assessing the climate consistency of finance"
+title: "Assessing the climate consistency of finance: Taking stock of methodologies and their links to climate mitigation policy objectives "
 url_code: ''
 url_dataset: ''
 url_pdf: ""
