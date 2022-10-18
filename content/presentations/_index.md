@@ -1,6 +1,9 @@
 ---
 title: Presentations
 ---
+**Working session on net-zero alignment of finance**  
+European Securities and Markets Authority, October 18, 2022
+
 **Workshop on regional industrial transitions to climate neutrality**  
 European Commission, September 12, 2022
 
