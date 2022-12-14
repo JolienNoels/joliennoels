@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Taking stock of methodologies and their links to climate mitigation policy objectives.
 tags:
-- OECD
+- Finance
 title: Assessing the climate consistency of finance
 ---

@@ -30,10 +30,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: TPI
-    tag: TPI
-  - name: OECD
-    tag: OECD
+  - name: Climate finance
+    tag: Finance
+  - name: Regional analysis
+    tag: Regional
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

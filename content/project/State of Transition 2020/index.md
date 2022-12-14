@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Transition pathways of firms.
 tags:
-- TPI
+- Finance
 title: State of Transition 2020
 ---

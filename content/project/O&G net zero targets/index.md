@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: How ambitious are oil and gas companies’ climate goals?
 tags:
-- TPI
+- Finance
 title: O&G net zero* targets
 ---
