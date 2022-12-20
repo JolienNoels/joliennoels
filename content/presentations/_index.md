@@ -1,6 +1,10 @@
 ---
 title: Presentations
 ---
+
+**[Workshop on Metrics for Climate Transition and Net-Zero GHGs in Finance](https://www.oecd.org/environment/cc/workshoponmetricsforclimatetransitionandnet-zeroghgsinfinance-supportingclimatepolicygoalsandavoidinggreenwashing.htm)**  
+OECD, February 22, 2023
+
 **Working session on net-zero alignment of finance**  
 European Securities and Markets Authority, October 18, 2022
 
