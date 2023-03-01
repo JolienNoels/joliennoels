@@ -21,7 +21,7 @@ OECD COP26 Virtual Pavilion, November 12, 2021
 OECD workshop series, 19 September to 13 October 2021
 
 **Recreating an OECD chart in R**  
-OECD R-Ladies Lunch Hour, March 26, 2021
+OECD R Community of Practice Lunch Hour, March 26, 2021
 
 **Indicators of progress in the net zero transition, local wellbeing and employment vulnerabilities**  
 OECD seminar, March 17, 2021
