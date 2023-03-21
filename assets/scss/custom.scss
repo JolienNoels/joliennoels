@@ -5,7 +5,7 @@
 .card-simple {
   background: #fff;
   border: 1px solid black;
-  padding: 10px;
+  box-sizing: border-box;
 /* this is the part that takes out the shadow */
   box-shadow: none;
   border: 1px solid rgba(0,0,0,.09);
@@ -21,7 +21,7 @@
   text-overflow: ellipsis;
   background: #fff;
   border: 1px solid black;
-  padding: 10px;
+  box-sizing: border-box;
 /* this is the part that takes out the shadow */
   box-shadow: none;
   transition: all 0.2s ease-out;
