@@ -2,6 +2,9 @@
 title: Presentations
 ---
 
+**Climate change, natural disasters, and financial risk: how could central banks integrate environmental issues into their policies?**  
+Workshop, June 27, 2023
+
 **[Workshop on Metrics for Climate Transition and Net-Zero GHGs in Finance](https://www.oecd.org/environment/cc/workshoponmetricsforclimatetransitionandnet-zeroghgsinfinance-supportingclimatepolicygoalsandavoidinggreenwashing.htm)**  
 OECD, February 22, 2023
 
