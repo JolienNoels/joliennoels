@@ -1,6 +1,8 @@
 ---
 title: Presentations
 ---
+**[Assessing progress towards Article 2.1(c) of the Paris Agreement: Considerations relating to scope, approaches and metrics](https://unfccc.int/sites/default/files/resource/2023-07-20-workshop-pa-2.1c-oecd.pdf)**
+UNFCCC, First Workshop on Sharm El-Sheikh Dialogue on Article 2.1c of the Paris Agreement, July 20, 2023
 
 **Climate change, natural disasters, and financial risk: how could central banks integrate environmental issues into their policies?**  
 FFJ/Banque de France, June 27, 2023
