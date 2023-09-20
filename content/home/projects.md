@@ -30,7 +30,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Climate finance
+  - name: Sustainable finance
     tag: Finance
   - name: Regional analysis
     tag: Regional
