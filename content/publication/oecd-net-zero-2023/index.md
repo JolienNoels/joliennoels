@@ -13,8 +13,7 @@ projects:
 - internal-project
 publication: ""
 publication_short: ""
-publication_types:
-- "9"
+publication_types: ["Monograph"]
 publishDate: "2023-05-16T00:00:00Z"
 slides: 
 summary: OECD.
