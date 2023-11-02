@@ -31,6 +31,6 @@ url_pdf: ""
 url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: ''
+url_source: 'https://www.oecd-ilibrary.org/urban-rural-and-regional-development/rural-transitions-to-net-zero-ghg-emissions-in-korea_ae06d20f-en'
 url_video: ''
 ---
