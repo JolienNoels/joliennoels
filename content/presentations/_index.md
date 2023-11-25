@@ -2,6 +2,9 @@
 title: Presentations
 ---
 
+**[Scenarios for net zero: From global consistency to sectoral and geographical circumstances](https://www.oecd-events.org/cop28/session/2aafcfbd-7d67-ee11-9935-000d3a4605e4/scenarios-for-net-zero-from-global-consistency-to-sectoral-and-geographical-circumstances)**  
+OECD COP28 Virtual Pavilion, November 23, 2023
+
 **[Aligning investment treaties with the Paris Agreement](https://www.oecd-events.org/oecd-forum-on-green-finance-and-investment/session/a9056ac1-4c01-ee11-907a-002248859577)**  
 OECD Forum on Green Finance and Investment, October 2, 2023
 
