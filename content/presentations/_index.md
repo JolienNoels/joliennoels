@@ -2,6 +2,9 @@
 title: Presentations
 ---
 
+**[Climate change mitigation scenarios for financial sector target setting and alignment assessment](https://green-finance-research-advances-2023.org/)**  
+Green Finance Research Advances, December 14, 2023
+
 **[Climate change mitigation scenarios for financial sector target setting and alignment assessment](https://blogs.otago.ac.nz/cefg/events/cefgroup-sustainable-finance-and-accounting-symposium/)**  
 CEFGroup Sustainable Finance and Accounting Symposium, November 30, 2023
 
