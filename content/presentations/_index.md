@@ -2,6 +2,9 @@
 title: Presentations
 ---
 
+**[Climate change mitigation scenarios for financial sector target setting and alignment assessment](https://blogs.otago.ac.nz/cefg/events/cefgroup-sustainable-finance-and-accounting-symposium/)**  
+CEFGroup Sustainable Finance and Accounting Symposium, November 30, 2023
+
 **[Scenarios for net zero: From global consistency to sectoral and geographical circumstances](https://www.oecd-events.org/cop28/session/2aafcfbd-7d67-ee11-9935-000d3a4605e4/scenarios-for-net-zero-from-global-consistency-to-sectoral-and-geographical-circumstances)**  
 OECD COP28 Virtual Pavilion, November 23, 2023
 
