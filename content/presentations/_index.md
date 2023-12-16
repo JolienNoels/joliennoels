@@ -2,6 +2,8 @@
 title: Presentations
 ---
 
+## 2023
+
 **[Climate change mitigation scenarios for financial sector target setting and alignment assessment](https://green-finance-research-advances-2023.org/)**  
 Green Finance Research Advances, December 14, 2023
 
@@ -23,11 +25,15 @@ FFJ/Banque de France, June 27, 2023
 **[Workshop on Metrics for Climate Transition and Net-Zero GHGs in Finance](https://www.oecd.org/environment/cc/workshoponmetricsforclimatetransitionandnet-zeroghgsinfinance-supportingclimatepolicygoalsandavoidinggreenwashing.htm)**  
 OECD, February 22, 2023
 
+## 2022
+
 **Working session on net-zero alignment of finance**  
 European Securities and Markets Authority, October 18, 2022
 
 **Workshop on regional industrial transitions to climate neutrality**  
 European Commission, September 12, 2022
+
+## 2021
 
 **Launch of JTP Working Groups on carbon-intensive regions**  
 Just Transition Platform Meeting, November 15, 2021
@@ -44,6 +50,8 @@ OECD R Community of Practice Lunch Hour, March 26, 2021
 **Indicators of progress in the net zero transition, local wellbeing and employment vulnerabilities**  
 OECD seminar, March 17, 2021
 
+## 2020
+
 **Understanding a company’s strategy on managing climate risks based on disclosure**  
 Colombian Climate Assets Owners Disclosure Initiative virtual workshop, November 24, 2020
 
@@ -58,6 +66,8 @@ Grantham Research Institute, February 13, 2020
 
 **Assessing companies’ preparedness for the low carbon transition**  
 Colombian Climate Assets Owners Disclosure Initiative conference, The Tower Hotel, January 22, 2020
+
+## 2019
 
 **Corporate disclosure and investor information on transition risk**  
 LSE-BoE Climate Risk Workshop, Bank of England, September 30, 2019
