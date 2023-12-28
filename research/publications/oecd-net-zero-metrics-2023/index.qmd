@@ -1,0 +1,17 @@
+---
+title: "Assessing net-zero metrics for financial institutions"
+subtitle: "Supporting the monitoring of financial institutions’ commitments"
+date: 2023-12-04
+author:
+  - name: OECD
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1787/dedcfe56-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd-ilibrary.org/finance-and-investment/assessing-net-zero-metrics-for-financial-institutions_dedcfe56-en)
+
+## Abstract
+
+Financial markets need clear information and credible metrics to inform climate-related investment and financing decisions. This report explores key challenges and opportunities related to the transparency, specificity and integrity of metrics to support the monitoring of financial institutions' net-zero commitments. It provides an assessment of metrics put forward in five voluntary frameworks, identifies the type of information and metrics proposed, their common themes and gaps, as well as limitations in underlying methodological guidance that may hinder financial institutions' ability to report and disclose metrics. The report highlights a need both for continued efforts to develop robust metrics and incentivise improved data disclosure, as well as for international co-operation to reduce fragmentation and provide further transparency on the scope of metrics and underlying methodologies.

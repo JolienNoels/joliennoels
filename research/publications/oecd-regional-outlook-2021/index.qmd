@@ -1,0 +1,16 @@
+---
+title: "OECD Regional Outlook 2021"
+subtitle: "Addressing COVID-19 and Moving to Net Zero Greenhouse Gas Emissions"
+date: 2021-05-05
+author:
+  - name: OECD
+categories: 
+  - OECD
+  - Regional development
+  - Net zero
+Link: <a href='https://doi.org/10.1787/17017efe-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd-ilibrary.org/urban-rural-and-regional-development/oecd-regional-outlook-2021_17017efe-en)
+
+## Abstract

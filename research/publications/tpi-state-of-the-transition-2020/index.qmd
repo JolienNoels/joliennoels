@@ -1,0 +1,18 @@
+---
+title: "TPI State of Transition Report 2020"
+date: 2018-11-25
+author:
+  - name: Simon Dietz
+  - name: Rhoda Byrne
+  - name: Dan Gardiner
+  - name: Valentin Jahn
+  - name: Michal Nachmany
+  - name: Jolien Noels 
+  - name: Rory Sullivan
+categories: 
+  - LSE TPI
+  - Sustainable Finance
+Link: <a href='https://joliennoels.com/files/TPI-State-of-the-Transition-2020.pdf'>Link</a>
+---
+
+[Link to the presentation](https://www.transitionpathwayinitiative.org/publications/uploads/2020-state-of-the-transition-presentation)

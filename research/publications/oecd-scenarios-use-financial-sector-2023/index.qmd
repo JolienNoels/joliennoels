@@ -1,0 +1,20 @@
+---
+title: "Climate change mitigation scenarios for financial sector target setting and alignment assessment"
+subtitle: "A stocktake and analysis of their Paris-consistency, practicality and assumptions"
+date: 2023-09-28
+author:
+  - name: Jolien Noels 
+  - name: Coline Pouille
+  - name: Raphaël Jachnik
+  - name: Marcia Rocha
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1787/bcd25b82-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd-ilibrary.org/finance-and-investment/climate-change-mitigation-scenarios-for-financial-sector-target-setting-and-alignment-assessment_bcd25b82-en)
+
+## Abstract
+
+Climate change mitigation scenarios are a key forward-looking input for a range of financial sector analyses and assessments. The inaccurate use of mitigation scenarios can, however, contribute to unintended incentives, environmental integrity concerns, and greenwashing risks. This paper aims to inform climate change mitigation scenario providers, financial sector participants and stakeholders, and climate policymakers on how they may contribute to improved use of scenarios for the purposes of target setting and alignment assessments in the financial sector. To do so, the paper analyses climate change mitigation scenarios currently used for these purposes, based on the following analytical dimensions: consistency with the Paris Agreement, practicality, and underlying assumptions.

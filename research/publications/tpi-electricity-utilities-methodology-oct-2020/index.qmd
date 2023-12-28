@@ -1,0 +1,17 @@
+---
+title: "Carbon Performance assessment of electricity utilities: note on methodology"
+date: 2020-10-25
+author:
+  - name: Simon Dietz
+  - name: Dan Gardiner
+  - name: William Irwin
+  - name: Valentin Jahn
+  - name: Jolien Noels 
+  - name: Bruno Rauis
+categories: 
+  - LSE TPI
+  - Sustainable Finance
+Link: <a href='https://www.transitionpathwayinitiative.org/publications/uploads/2020-carbon-performance-assessment-of-electricity-utilities-note-on-methodology-october-2020'>Link</a>
+---
+
+[Link to the publication](https://www.transitionpathwayinitiative.org/publications/uploads/2020-carbon-performance-assessment-of-electricity-utilities-note-on-methodology-october-2020)

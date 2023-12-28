@@ -1,0 +1,80 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/posts/climate-action-needs-local-leaders/index.html",
+      "/posts/klimaatneutrale-transitie-menselijker-economie/index.html",
+      "/posts/klimaattransitie-wat-kunnen-bedrijven-doen/index.html",
+      "/posts/oil-gas-emissions-targets/index.html",
+      "/posts/investors-corporate-climate-action/index.html",
+      "/posts/drawdown-voor-belgie/index.html",
+      "/posts/klimaatfrustaties-leidt-tot-extremisme/index.html"
+    ]
+  },
+  {
+    "listing": "/articles.html",
+    "items": [
+      "/articles/coal-electricity-generation/index.html",
+      "/articles/climate-action-needs-local-leaders/index.html",
+      "/articles/klimaatneutrale-transitie-menselijker-economie/index.html",
+      "/articles/klimaattransitie-wat-kunnen-bedrijven-doen/index.html",
+      "/articles/oil-gas-emissions-targets/index.html",
+      "/articles/investors-corporate-climate-action/index.html",
+      "/articles/drawdown-voor-belgie/index.html",
+      "/articles/klimaatfrustaties-leidt-tot-extremisme/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/publications/oecd-net-zero-metrics-2023/index.html",
+      "/research/publications/oecd-rural-korea-manufacturing-transition/index.html",
+      "/research/publications/oecd-paris-consistent-scenarios-2023/index.html",
+      "/research/publications/oecd-scenarios-use-financial-sector-2023/index.html",
+      "/research/publications/imf-wb-oecd-activating-alignment-2023/index.html",
+      "/research/publications/oecd-net-zero-2023/index.html",
+      "/research/publications/oecd-regional-industrial-transitions-to-climate-neutrality-2023/index.html",
+      "/research/publications/oecd-methodologies-2022/index.html",
+      "/research/publications/tpi-oil-and-gas-net-zero-2021/index.html",
+      "/research/publications/oecd-regional-outlook-2021/index.html",
+      "/research/publications/tpi-electricity-utilities-methodology-oct-2020/index.html",
+      "/research/publications/tpi-mining-methodology-2020/index.html",
+      "/research/publications/tpi-oil-and-gas-methodology-oct-2020/index.html",
+      "/research/publications/tpi-energy-results-2020/index.html",
+      "/research/publications/tpi-european-integrated-oil-and-gas-briefing-paper/index.html",
+      "/research/publications/tpi-diversified-miners-discussion-paper/index.html",
+      "/research/publications/tpi-industrial-and-material-sectors-results-feb-2020/index.html",
+      "/research/publications/tpi-paper-methodology-dec-2019/index.html",
+      "/research/publications/tpi-tansport-sectors-results-dec-2019/index.html",
+      "/research/publications/tpi-net-zero-research-oct-2019/index.html",
+      "/research/publications/tpi-energy-sectors-results-sep-2019/index.html",
+      "/research/publications/tpi-methodology-and-indicator-report-v3.0/index.html",
+      "/research/publications/tpi-airlines-results-mar-2019/index.html",
+      "/research/publications/tpi-aluminium-methodology-feb-2019/index.html",
+      "/research/publications/tpi-aluminium-results-feb-2019/index.html",
+      "/research/publications/tpi-autos-methodology-nov-2018/index.html",
+      "/research/publications/tpi-autos-results-nov-2018/index.html",
+      "/research/publications/tpi-oil-and-gas-methodology-jun-2019/index.html",
+      "/research/publications/tpi-paper-results-nov-2018/index.html",
+      "/research/publications/tpi-state-of-the-transition-2019/index.html",
+      "/research/publications/tpi-state-of-the-transition-2020/index.html"
+    ]
+  },
+  {
+    "listing": "/research/publications/imf-wb-oecd-activating-alignment-2023/index.html",
+    "items": []
+  },
+  {
+    "listing": "/articles/index.html",
+    "items": []
+  }
+]

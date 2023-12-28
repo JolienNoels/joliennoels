@@ -1,0 +1,18 @@
+---
+subtitle: "An overview of published research"
+listing:
+  - contents: "publications/*/index.qmd"
+    type: default
+    sort: "date desc"
+    categories: true
+    table-striped: true
+    fields: [date, title, subtitle, author, Link]
+    image-align: left
+page-layout: full
+include-back-link: false
+toc-location: right
+
+---
+
+::: {#publications}
+:::
