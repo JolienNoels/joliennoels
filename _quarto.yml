@@ -3,8 +3,8 @@ project:
 
 website:
   title: "Jolien Noels"
-  site-url: https://joliennoels.com
-  repo-url: https://github.com/JolienNoels/joliennoels
+  site-url: "https://joliennoels.com"
+  repo-url: "https://github.com/JolienNoels/joliennoels""
   favicon: assets/imgs/icon.png
   navbar:
     pinned: true
