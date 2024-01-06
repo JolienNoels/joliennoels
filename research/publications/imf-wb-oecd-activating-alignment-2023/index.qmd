@@ -1,0 +1,21 @@
+---
+title: "Activating Alignment"
+subtitle: "Applying the G-20 Principles for Sustainable Finance Alignment with a Focus on Climate Change Mitigation"
+date: 2023-09-14
+author:
+  - name: Charlotte Gardes-Landolfini
+  - name: Ananthakrishnan Prasad
+  - name: Fiona Stewart
+  - name: Louise Gardiner
+  - name: Aaron Levine
+  - name: Robert Patalano
+  - name: Jolien Noels
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://www.imf.org/external/np/g20/091323.htm'>Link</a>
+---
+
+## Abstract
+
+This report operationalizes the G20 Sustainable Finance Working Group high-level principles on alignment approaches, thereby aiming at contribution to the design and implementation of a robust climate information architecture and achieve greater interoperability globally. The lack of a robust climate information architecture is often cited as an impediment to scaling up private climate finance in emerging markets and developing economies (EMDEs). This report aims at filling the gap by providing a global framework and technical solutions to ensure greater credibility, comparability, and interoperability of climate data and their supporting reference frameworks. It also presents tools to improve the credibility and uptake of transition planning, encompassing carbon-intensive activities and projects that need to undergo significant decarbonization or phase-out. Finally, it aims to contribute to the design of a transition finance framework in a constructive way for EMDEs, finding the right balance between interoperability and the local context and purpose, and solutions for alignment in EMDE-based supply chains.

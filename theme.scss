@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Color system
+// scss-docs-start theme-color-variables
+$primary:       #F4E7E1 !default;
+$secondary:     #F4E7E1 !default;
+// scss-docs-end theme-color-variables
+
+// scss-docs-start theme-text-variables
+$primary-text-emphasis:   #052A61 !default;
+$secondary-text-emphasis: #172A3A !default;
+// scss-docs-end theme-text-variables
+
+// Base document colors
+$navbar-bg: #F4E7E1 !default;
+$navbar-fg: #172A3A !default; 
+$navbar-hl: #052A61 !default;
+$body-bg:   #FFFFFF !default;
+$body-color: #172A3A !default; 
+$footer-bg: #FFFFFF !default;
+$link-color: #063680 !default;

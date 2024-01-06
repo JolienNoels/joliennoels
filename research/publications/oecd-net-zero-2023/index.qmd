@@ -1,0 +1,17 @@
+---
+title: "Net Zero+"
+subtitle: "Climate and Economic Resilience in a Changing World"
+date: 2023-05-16
+author:
+  - name: OECD
+categories: 
+  - OECD
+  - Net zero
+Link: <a href='https://doi.org/10.1787/da477dda-en'>Link</a>
+---
+
+[Link to the publication](https://doi.org/10.1787/da477dda-en)
+
+## Abstract
+
+The substantial global upheavals of recent years have come at a time of unprecedented urgency for faster action on climate change. Addressing this challenge is the focus of Net Zero+: Climate and Economic Resilience in a Changing World. The project draws on the breadth of the OECD's multidisciplinary expertise to present resilience as the backbone of effective, whole-of-government climate policy. Net Zero+ is about how we reach net zero in a rapidly changing world -- it is about not only making sure climate policies are as ambitious as they need to be but also resilient in a world of overlapping disruptions. This means building resilience to the impacts of climate change itself, as well as designing policies that fully take into account socio-economic implications and considerations of fairness and equity. This report is the final output of the first phase of this project.

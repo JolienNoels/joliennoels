@@ -1,0 +1,19 @@
+---
+title: "Some graphs on electricity generation from coal"
+author: "Jolien Noels"
+date: "2023-12-26"
+categories: [blog, data visualisation]
+format:
+  html:
+    code-tools: true
+    css:
+      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css
+---
+
+```{r global, include=FALSE}
+library(tidyverse)
+library(readxl)
+dir <- here::here("articles/electricity-generation-g20")
+```
+
+![](./elec_eu.png)

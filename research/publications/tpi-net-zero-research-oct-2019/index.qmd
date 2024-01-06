@@ -1,0 +1,16 @@
+---
+title: "A survey of the net zero positions of the world’s largest energy companies"
+date: 2019-11-12
+author:
+  - name: Simon Dietz
+  - name: Valentin Jahn
+  - name: Jolien Noels 
+  - name: Rupert Stuart-Smith
+  - name: Cameron Hepburn 
+categories: 
+  - LSE TPI
+  - Sustainable Finance
+Link: <a href='https://www.transitionpathwayinitiative.org/publications/uploads/2019-a-survey-of-the-net-zero-positions-of-the-world-s-largest-energy-companies'>Link</a>
+---
+
+[Link to the publication](https://www.transitionpathwayinitiative.org/publications/uploads/2019-a-survey-of-the-net-zero-positions-of-the-world-s-largest-energy-companies)

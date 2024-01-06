@@ -1,0 +1,14 @@
+{
+  "hash": "7655d3561bebf99d048c601478b44477",
+  "result": {
+    "markdown": "---\ntitle: \"Some graphs on electricity generation from coal\"\nauthor: \"Jolien Noels\"\ndate: \"2023-12-26\"\ncategories: [blog, data visualisation]\nformat:\n  html:\n    code-tools: true\n    css:\n      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css\n---\n\n\n\n\n![](./elec_eu.png)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

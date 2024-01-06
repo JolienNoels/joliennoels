@@ -1,0 +1,19 @@
+---
+title: "How ambitious are oil and gas companies’ climate goals?"
+date: 2021-10-25
+author:
+  - name: Simon Dietz
+  - name: Dan Gardiner
+  - name: Valentin Jahn
+  - name: Jolien Noels 
+categories: 
+  - LSE TPI
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1126/science.abh0687'>Link</a>
+---
+
+[Link to the publication in Science](https://doi.org/10.1126/science.abh0687)
+
+## Abstract
+
+The oil and gas (O&G) industry faces an existential threat from the transition to a low-carbon economy. Companies are increasingly responding by setting greenhouse gas (GHG) emissions targets, which are presented as being compatible with this transition. Many stakeholders, including investors that own O&G companies, want to understand how ambitious these targets are. In this paper, we present a forward-looking method of estimating the life-cycle carbon emissions intensity of O&G producers based on their public disclosures, and we use it to compare companies' targets with international climate goals. The sector is not on track. Recent trends in emissions intensity have been mostly flat. Nearly half the companies we assess have yet to set emissions targets or provide sufficient clarity on them. Of those that have set targets, most are either too shallow or too narrow. Two companies have set targets that would bring their GHG intensity below international climate goals by mid-century.
