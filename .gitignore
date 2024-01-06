@@ -2,9 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-.DS_Store
-Thumbs.db
-/public/
-/resources/
-website.R
+
 /.quarto/
+
+_site/
+_freeze/
+_extensions/
