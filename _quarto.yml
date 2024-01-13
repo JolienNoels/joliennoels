@@ -15,7 +15,8 @@ website:
       - text: Articles
         href: articles.qmd 
   back-to-top-navigation: true
-  
+  google-analytics: "G-ZPQSTB411C"
+
 format:
   html:
     theme: theme.scss
