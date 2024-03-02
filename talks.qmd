@@ -10,8 +10,10 @@ library(tidyverse)
 
 # Creating a data frame with the information
 events_data <- tibble(
-  Year = c(2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
+  Year = c(2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
   Date = c(
+    "May-6",
+    "Apr-4",
     "Dec-14",
     "Nov-30",
     "Nov-23",
@@ -33,6 +35,8 @@ events_data <- tibble(
     "May-16"
   ),
   Event = c(
+    "IFC Workshop on Addressing Climate Change Data Needs: The Global Debate and Central Banks' contribution",
+    "Global Forum on the Environment and Climate Change",
     "Green Finance Research Advances",
     "CEFGroup Sustainable Finance and Accounting Symposium",
     "OECD COP28 Virtual Pavilion",
@@ -54,6 +58,8 @@ events_data <- tibble(
     "Presentation to ETION, London School of Economics"
   ),
   Title = c(
+    "Assessing the climate consistency of finance",
+    "Empirical evidence on needs, sources, and actors for the NCQG",
     "Climate change mitigation scenarios for financial sector target setting and alignment assessment",
     "Climate change mitigation scenarios for financial sector target setting and alignment assessment",
     "Scenarios for net zero: From global consistency to sectoral and geographical circumstances",
@@ -75,6 +81,8 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
+    "",
+    "https://www.oecd.org/environment/cc/ccxg/globalforumontheenvironmentandclimatechange-april2024.htm",
     "https://green-finance-research-advances-2023.org/",
     "https://blogs.otago.ac.nz/cefg/events/cefgroup-sustainable-finance-and-accounting-symposium/",
     "https://www.oecd-events.org/cop28/session/2aafcfbd-7d67-ee11-9935-000d3a4605e4/scenarios-for-net-zero-from-global-consistency-to-sectoral-and-geographical-circumstances",
