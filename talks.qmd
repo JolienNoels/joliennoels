@@ -10,8 +10,9 @@ library(tidyverse)
 
 # Creating a data frame with the information
 events_data <- tibble(
-  Year = c(2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
+  Year = c(2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
   Date = c(
+    "June-20",
     "May-6",
     "Apr-4",
     "Mar-18",
@@ -36,6 +37,7 @@ events_data <- tibble(
     "May-16"
   ),
   Event = c(
+    "OECD-NGFS Workshop",
     "IFC Workshop on Addressing Climate Change Data Needs: The Global Debate and Central Banks' contribution",
     "Global Forum on the Environment and Climate Change",
     "17th Financial Risks International Forum",
@@ -60,6 +62,7 @@ events_data <- tibble(
     "Presentation to ETION, London School of Economics"
   ),
   Title = c(
+    "Workshop on Assessing the Climate Resilience of Finance",
     "Assessing the climate consistency of finance",
     "Empirical evidence on needs, sources, and actors for the NCQG",
     "Climate and systemic risks",
@@ -84,6 +87,7 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
+    "https://www.oecd.org/environment/cc/workshoponassessingtheclimateresilienceoffinance-fromphysicalrisktoresiliencealignment.htm",
     "",
     "https://www.oecd.org/environment/cc/ccxg/globalforumontheenvironmentandclimatechange-april2024.htm",
     "https://green-finance-research-advances-2023.org/",
