@@ -7,8 +7,8 @@ base_url: https://joliennoels.com/articles/electricity-generation
 preview: assets/elec_eu.png
 ---
 
-![](assets/elec_eu.png) 
+![](assets/elec_eu.png)
 
 G20 countries
 
-![](assets/g20_mix.png) 
+![](assets/g20_mix.png)
