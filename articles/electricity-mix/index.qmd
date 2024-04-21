@@ -8,11 +8,3 @@ categories: [blog, data visualisation]
 
 Some graphs showing the evolution of electricity generation using different energy sources.
 
-European countries
-
-![](images/elec_eu.png) Data source: Ember.
-
-G20 countries
-
-![](images/g20_mix.png) Data source: Ember.
-
