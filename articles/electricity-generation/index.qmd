@@ -9,8 +9,8 @@ preview: assets/elec_eu.png
 
 European countries
 
-![](assets/elec_eu.png) Data source: Ember.
+![](images/elec_eu.png) Data source: Ember.
 
 G20 countries
 
-![](assets/g20_mix.png) Data source: Ember.
+![](images/g20_mix.png) Data source: Ember.
