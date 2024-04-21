@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://joliennoels.com/articles.html</loc>
-    <lastmod>2024-04-21T10:16:21.685Z</lastmod>
+    <lastmod>2024-04-21T10:22:00.402Z</lastmod>
   </url>
   <url>
     <loc>https://joliennoels.com/articles/klimaattransitie-wat-kunnen-bedrijven-doen/index.html</loc>
@@ -171,5 +171,9 @@
   <url>
     <loc>https://joliennoels.com/index.html</loc>
     <lastmod>2024-03-19T05:29:48.940Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joliennoels.com/articles/electricity-generation/index.html</loc>
+    <lastmod>2024-04-21T10:21:59.776Z</lastmod>
   </url>
 </urlset>

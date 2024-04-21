@@ -10,13 +10,9 @@ format:
       - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css
 ---
 
-```{r global, include=FALSE}
-library(tidyverse)
-library(readxl)
-dir <- here::here("articles/electricity-generation-g20")
-```
+![](./elec_eu.png)
 
-![](./elec_eu.png) G20 countries
+G20 countries
 
 ::: column-screen
 ![](./g20-mix.png)
