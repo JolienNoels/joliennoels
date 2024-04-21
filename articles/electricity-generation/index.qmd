@@ -1,5 +1,5 @@
 ---
-title: "Some graphs on electricity generation from coal"
+title: "Some graphs on electricity generation"
 author: "Jolien Noels"
 date: "2023-12-26"
 categories: [blog, data visualisation]
@@ -16,4 +16,8 @@ library(readxl)
 dir <- here::here("articles/electricity-generation-g20")
 ```
 
-![](./elec_eu.png)
+![](./elec_eu.png) G20 countries
+
+::: column-screen
+![](./g20-mix.png)
+:::

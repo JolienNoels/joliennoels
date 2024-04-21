@@ -1,7 +1,7 @@
 {
-  "hash": "7655d3561bebf99d048c601478b44477",
+  "hash": "3f60eec336d9498d752ece58c51bf21c",
   "result": {
-    "markdown": "---\ntitle: \"Some graphs on electricity generation from coal\"\nauthor: \"Jolien Noels\"\ndate: \"2023-12-26\"\ncategories: [blog, data visualisation]\nformat:\n  html:\n    code-tools: true\n    css:\n      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css\n---\n\n\n\n\n![](./elec_eu.png)\n",
+    "markdown": "---\ntitle: \"Some graphs on electricity generation from coal\"\nauthor: \"Jolien Noels\"\ndate: \"2023-12-26\"\ncategories: [blog, data visualisation]\nformat:\n  html:\n    code-tools: true\n    css:\n      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css\n---\n\n\n\n\n![](./elec_eu.png)\nG20 countries\n\n::: {.column-screen}\n![](./g20-mix.png)\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
