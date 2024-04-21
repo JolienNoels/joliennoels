@@ -1,0 +1,18 @@
+---
+title: "Some graphs on electricity generation"
+date: "2024-04-21"
+autor: 
+- Jolien Noels
+categories: [blog, data visualisation]
+---
+
+Some graphs showing the evolution of electricity generation using different energy sources.
+
+European countries
+
+![](images/elec_eu.png) Data source: Ember.
+
+G20 countries
+
+![](images/g20_mix.png) Data source: Ember.
+
