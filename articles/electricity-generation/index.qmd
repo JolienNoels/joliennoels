@@ -1,13 +1,8 @@
 ---
 title: "Some graphs on electricity generation"
-author: "Jolien Noels"
 date: "2023-12-26"
+author: "Jolien Noels"
 categories: [blog, data visualisation]
-format:
-  html:
-    code-tools: true
-    css:
-      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css
 ---
 
 ![](./elec_eu.png)

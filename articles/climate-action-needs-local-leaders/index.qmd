@@ -9,5 +9,4 @@ categories: [OECD, external]
 
 Please find the blog article on the OECD Cogito blog: [Climate action needs local leaders: can they rise to the challenge?](https://oecdcogito.blog/2022/03/01/climate-action-needs-local-leaders-can-they-rise-to-the-challenge/)
 
-![](reg-co2.PNG)
-Source: OECD calculations based on EC 2020, EDGAR – Emissions Database for Global Atmospheric Research, Joint Research Centre, European Commission.
+![](reg-co2.PNG) Source: OECD calculations based on EC 2020, EDGAR -- Emissions Database for Global Atmospheric Research, Joint Research Centre, European Commission.
