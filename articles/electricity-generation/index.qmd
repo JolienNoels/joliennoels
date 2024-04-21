@@ -9,6 +9,4 @@ categories: [blog, data visualisation]
 
 G20 countries
 
-::: column-screen
-![](./g20-mix.png)
-:::
+![](./g20_mix.png)
