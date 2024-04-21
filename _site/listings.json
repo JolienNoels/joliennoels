@@ -2,6 +2,7 @@
   {
     "listing": "/articles.html",
     "items": [
+      "/articles/test/index.html",
       "/articles/electricity-mix/index.html",
       "/articles/electricity-generation/index.html",
       "/articles/climate-action-needs-local-leaders/index.html",
