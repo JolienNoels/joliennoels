@@ -3,8 +3,7 @@ title: "Some graphs on electricity generation"
 date: "2023-12-26"
 author: "Jolien Noels"
 categories: [blog, data visualisation]
-base_url: https://joliennoels.com/articles/electricity-generation
-preview: assets/elec_eu.png
+preview: images/elec_eu.png
 ---
 
 European countries
