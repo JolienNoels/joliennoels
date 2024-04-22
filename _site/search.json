@@ -375,7 +375,7 @@
     "href": "articles/electricity-generation/index.html",
     "title": "Some graphs on electricity generation",
     "section": "",
-    "text": "Some graphs showing the evolution of electricity generation using different energy sources.\n\nElectricity generation from fossil fuels in European countries\n\nrequire(\"https://cdn.jsdelivr.net/npm/juxtaposejs@1.1.6/build/js/juxtapose.min.js\")\n  .catch(() =&gt; null)\n\n\n\n\n\n\n\n\n\n\nData source: Ember.\n\n\nG20 countries\n\n Data source: Ember.\n\n\n\n\n\n\n\n Back to top"
+    "text": "Some graphs showing the evolution of electricity generation using different energy sources.\n\nElectricity generation from fossil fuels in European countries\n\nrequire(\"https://cdn.jsdelivr.net/npm/juxtaposejs@1.1.6/build/js/juxtapose.min.js\")\n  .catch(() =&gt; null)\n\n\n\n\n\n\n\n\n\n\nData source: Ember.\n\n\nElectricity generation from fossil fuels and clean energy sources in G20 countries\n\n Data source: Ember.\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "articles/electricity-mix/index.html",
