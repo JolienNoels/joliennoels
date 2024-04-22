@@ -3,16 +3,34 @@ title: "Some graphs on electricity generation"
 date: "2023-12-26"
 author: "Jolien Noels"
 categories: [blog, data visualisation]
-preview: images/elec_eu.png
+preview: images/elec_eu_2020.png
+format:
+  html:
+    code-tools: true
+    css:
+      - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css
 ---
 
 Some graphs showing the evolution of electricity generation using different energy sources.
 
-European countries
+### Electricity generation from fossil fuels in European countries
 
-![](images/elec_eu.png) Data source: Ember.
+```{ojs}
+//| output: false
+require("https://cdn.jsdelivr.net/npm/juxtaposejs@1.1.6/build/js/juxtapose.min.js")
+  .catch(() => null)
+```
 
-G20 countries
+::: {.juxtapose data-startingposition="35%" style="margin-bottom:2em"}
+
+![](images/elec_eu_2000.png){data-label="2000"}
+
+![](images/elec_eu_2020.png){data-label="2020"}
+
+:::
+Data source: Ember.
+
+### G20 countries
 
 ::: {.column-screen}
 ![](images/g20_mix.png) Data source: Ember.

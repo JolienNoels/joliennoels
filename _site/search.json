@@ -375,7 +375,7 @@
     "href": "articles/electricity-generation/index.html",
     "title": "Some graphs on electricity generation",
     "section": "",
-    "text": "Some graphs showing the evolution of electricity generation using different energy sources.\nEuropean countries\n Data source: Ember.\nG20 countries\n\n Data source: Ember.\n\n\n\n\n Back to top"
+    "text": "Some graphs showing the evolution of electricity generation using different energy sources.\n\nElectricity generation from fossil fuels in European countries\n\nrequire(\"https://cdn.jsdelivr.net/npm/juxtaposejs@1.1.6/build/js/juxtapose.min.js\")\n  .catch(() =&gt; null)\n\n\n\n\n\n\n\n\n\n\nData source: Ember.\n\n\nG20 countries\n\n Data source: Ember.\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "articles/electricity-mix/index.html",
@@ -390,5 +390,19 @@
     "title": "Emissions targets in the oil and gas sector",
     "section": "",
     "text": "Please find our blog post on the LSE Grantham Research Institute website: Emissions targets in the oil and gas sector: How do they stack up?\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "articles/electricity-generation/index.html#european-countries",
+    "href": "articles/electricity-generation/index.html#european-countries",
+    "title": "Some graphs on electricity generation",
+    "section": "European countries",
+    "text": "European countries\n Data source: Ember."
+  },
+  {
+    "objectID": "articles/electricity-generation/index.html#g20-countries",
+    "href": "articles/electricity-generation/index.html#g20-countries",
+    "title": "Some graphs on electricity generation",
+    "section": "G20 countries",
+    "text": "G20 countries\n\n Data source: Ember."
   }
 ]
