@@ -7,11 +7,13 @@ preview: images/elec_eu_2020.png
 format:
   html:
     code-tools: true
+    code-fold: true
+    code-summary: "Show the code"
     css:
       - https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css
 ---
 
-Some graphs showing the evolution of electricity generation using different energy sources.
+Some graphs I made showing the evolution of electricity generation using different energy sources.
 
 ### Electricity generation from fossil fuels in European countries
 
@@ -22,18 +24,142 @@ require("https://cdn.jsdelivr.net/npm/juxtaposejs@1.1.6/build/js/juxtapose.min.j
 ```
 
 ::: {.juxtapose data-startingposition="35%" style="margin-bottom:2em"}
-
 ![](images/elec_eu_2000.png){data-label="2000"}
 
 ![](images/elec_eu_2020.png){data-label="2020"}
-
 :::
+
 Data source: Ember.
+
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+#| eval: false
+
+# 0 Packages --------------------------------------------------------------
+
+library(tidyverse)
+library(here)
+
+# 1 Global ----------------------------------------------------------------
+
+dir_data <- here("data")
+dir_fig <- here("figures")
+
+# 2 Data ------------------------------------------------------------------
+
+elec <- read_csv(fs::path(dir_data, "yearly_full_release_long_format.csv")) %>% 
+  janitor::clean_names()
+
+elec$bracket <- cut(
+  elec$value, 
+  breaks = c(-1, 20, 40, 60, 80, 101), 
+  labels = c("0-20", "20-40", "40-60", "60-80", "80-100") 
+)
+
+tiles <- readxl::read_excel(fs::path(dir_data, "tilemap_eu_jn.xlsx")) %>% 
+  rename(area = country)
+
+data <- left_join(elec, tiles, by = c('area'))
+
+# 3 Graph -----------------------------------------------------------------
+
+data %>% 
+  filter(
+    continent == "Europe",
+    year == "2000",
+    variable == "Fossil",
+    category == "Electricity generation",
+    subcategory == "Aggregate fuel",
+    unit == "%"
+  ) %>% 
+  ggplot(aes(xmin = column, ymin = row, xmax = column + 1, ymax = row + 1)) +
+  geom_rect(aes(fill = bracket), colour = "white") +
+  geom_text(aes(x = column, y = row + 1, label = iso3), color = "white", nudge_x = 0.5, nudge_y = 0.5, size = 5) + 
+  scale_y_reverse() +
+  scale_fill_manual(values = c("#F3E9DA","#dbcbbd","#c87941","#87431d","#290001")) +
+  theme_void() +
+  labs(
+    fill = "% of total production",
+    title = "2000"
+  ) +
+  theme(
+    legend.position = "left",
+    legend.text = element_text(size=16),
+    legend.title = element_text(size=16)
+  )
+
+ggsave(
+  fs::path(dir_fig, "elec_eu_2000.png"),
+  width = 20, height = 20, units = c("cm")
+)
+
+
+```
 
 ### Electricity generation from fossil fuels and clean energy sources in G20 countries
 
-::: {.column-screen}
+::: column-screen
 ![](images/g20_mix.png) Data source: Ember.
 :::
 
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+#| eval: false
 
+# 0 Packages --------------------------------------------------------------
+
+library(tidyverse)
+library(here)
+
+# 1 Global ----------------------------------------------------------------
+
+dir_data <- here("data")
+dir_fig <- here("figures")
+
+# 2 Data ------------------------------------------------------------------
+
+data <- read_csv(fs::path(dir_data, "yearly_full_release_long_format.csv")) %>% 
+  janitor::clean_names()
+
+
+# 3 Graph -----------------------------------------------------------------
+
+variable_order <- c("Fossil", "Clean")
+color_scale <- c("Fossil" = "#713F0D", "Clean" = "#FFC300")
+
+data %>% 
+  filter(
+    g20 == 1,
+    category == "Electricity generation",
+    unit == "%",
+    subcategory == "Aggregate fuel",
+    variable %in% c("Clean", "Fossil")
+  ) %>% 
+  ggplot(aes(x = year, y = value, colour = variable)) +
+  geom_line(aes(group = variable), size = 2) +
+  facet_wrap(~ area) +
+  labs(y = "%") +
+  scale_colour_manual(values = color_scale, breaks = variable_order) +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    legend.background = element_blank(),
+    legend.key = element_blank(),
+    axis.ticks = element_blank(),
+    axis.title = element_text(hjust = 1, angle = 45),
+    axis.title.x = element_blank(),
+    panel.background = element_rect(fill = "transparent"),  
+    panel.grid.major = element_line(color = "#F0F0F0"), 
+    panel.grid.minor = element_blank(),
+    strip.background = element_rect(fill = "transparent")
+  ) 
+
+ggsave(
+  fs::path(dir_fig, "g20-mix.png"),
+  height = 14, width = 30, units = "cm"
+)
+
+
+```
