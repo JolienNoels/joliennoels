@@ -1,0 +1,20 @@
+---
+title: "The New Collective Quantified Goal on climate finance"
+subtitle: "Options for reflecting the role of different sources, actors, and qualitative considerations"
+date: 2024-05-27
+author:
+  - name: Chiara Falduto 
+  - name: Jolien Noels 
+  - name: Raphaël Jachnik
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1787/7b28309b-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd-ilibrary.org/environment/the-new-collective-quantified-goal-on-climate-finance_7b28309b-en)
+
+## Abstract
+
+At the UNFCCC COP21 in 2015, Parties decided that a New Collective Quantified Goal (NCQG) on climate finance shall be set prior to 2025, from a floor of USD 100 billion per year, taking into account the needs and priorities of developing countries. The ad-hoc work programme on the NCQG commenced at the beginning of 2022 and will conclude in 2024. In this context, the present paper puts forward key findings that can help to inform the final months of international discussions relating to the NCQG. First, the paper provides a stocktake of available evidence highlighting that climate action in developing countries requires significant levels of financing that can be met from a wide, and complementary, range of existing and potential new sources. Second, the paper considers how the NCQG could reflect various individual elements, grouped in three clusters: international public finance, private finance, and domestic efforts. Without pre-empting the future structure of the NCQG, the discussion in this paper illustrates how to potentially reflect both the importance of international public finance as well as the need to scale up private finance, while also recognising the magnitude and effectiveness of such finance depends on the domestic context and actions by all Parties. Third, the paper explores issues relating to tracking and assessing progress towards the future goal. These indicate that while certain elements can be tracked in monetary terms, others would require a different type of quantified indicators or qualitative information. These considerations also highlight that although data and information stemming from the Paris Agreement’s Enhanced Transparency Framework will be central, further sources will be needed for such progress assessments to be as comprehensive and policy relevant as possible.
+
