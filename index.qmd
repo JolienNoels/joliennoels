@@ -14,8 +14,8 @@ about:
       href: https://twitter.com/joliennoels
 ---
 
-I am an economist working at the intersection of finance, economics, and climate change. I analyse and visualize data using R.
+I am an economist working at the intersection of finance, economics, and climate change.
 
-Currently, I am working for the [OECD](https://www.oecd.org/). My research and policy work focuses on aligning finance with climate policy goals under the OECD's [Research Collaborative on Tracking Finance for Climate Action](https://www.oecd.org/env/researchcollaborative/) (please find a summary of our work [here](https://www.oecd.org/climate-change/oecd-research-collaborative-finance-climate-action-brochure.pdf)). At the OECD, I have also researched the impacts of the net-zero transition on firms, cities and rural regions.
+Currently, I am working for the [OECD](https://www.oecd.org/). My research and policy work focuses on [aligning finance with climate goals](https://www.oecd.org/en/topics/sub-issues/assessing-the-alignment-of-finance-with-climate-goals.html) (find a summary of our work [here](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/assessing-the-alignment-of-finance-with-climate-goals/(1)%20oecd-research-collaborative-finance-climate-action-brochure.pdf/_jcr_content/renditions/original./(1)%20oecd-research-collaborative-finance-climate-action-brochure.pdf)). At the OECD, I have also researched the impacts of the net-zero transition on firm competitiveness and regional development.
 
 Previously, I worked for the [Transition Pathway Initiative](https://www.transitionpathwayinitiative.org/) (at the LSE's [GRI](https://www.lse.ac.uk/granthaminstitute/)) analysing companies' preparedness to transition to a low carbon economy. [Investors use this research as a tool for climate action.](https://www.climateaction100.org/progress/progress-update/)
