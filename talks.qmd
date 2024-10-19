@@ -10,8 +10,10 @@ library(tidyverse)
 
 # Creating a data frame with the information
 events_data <- tibble(
-  Year = c(2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
+  Year = c(2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
   Date = c(
+    "Oct-17",
+    "Oct-15",
     "June-20",
     "May-6",
     "Apr-4",
@@ -37,6 +39,8 @@ events_data <- tibble(
     "May-16"
   ),
   Event = c(
+    "Sustainability Data EMEA 2024",
+    "OECD Forum on Green Finance and Investment",
     "OECD-NGFS Workshop",
     "IFC Workshop on Addressing Climate Change Data Needs: The Global Debate and Central Banks' contribution",
     "Global Forum on the Environment and Climate Change",
@@ -62,6 +66,8 @@ events_data <- tibble(
     "Presentation to ETION, London School of Economics"
   ),
   Title = c(
+    "Exploring the impact of regulation on the ESG data landscape",
+    "Aligning finance with climate policy goals: Is disclosure effective to inform robust assessments and drive decarbonisation?",
     "Workshop on Assessing the Climate Resilience of Finance",
     "Assessing the climate consistency of finance",
     "Empirical evidence on needs, sources, and actors for the NCQG",
@@ -87,6 +93,8 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
+    "https://www.environmental-finance.com/content/events/sustainability-data-emea/agenda.html",
+    "https://www.oecd-events.org/oecd-forum-on-green-finance-and-investment-2024/session/209d7479-292a-ef11-86d2-000d3abd5c23",
     "https://www.oecd.org/environment/cc/workshoponassessingtheclimateresilienceoffinance-fromphysicalrisktoresiliencealignment.htm",
     "",
     "https://www.oecd.org/environment/cc/ccxg/globalforumontheenvironmentandclimatechange-april2024.htm",
