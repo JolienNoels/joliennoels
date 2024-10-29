@@ -1,0 +1,20 @@
+---
+title: " Towards assessing the alignment of finance with climate resilience goals"
+subtitle: "Exploring options, methodologies, data and metrics "
+date: 2024-10-24
+author:
+  - name: Jolien Noels 
+  - name: Mark Bemhofen
+  - name: Raphaël Jachnik
+  - name: Simon Touboul
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1787/9446d65e-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd-ilibrary.org/environment/towards-assessing-the-alignment-of-finance-with-climate-resilience-goals_9446d65e-en)
+
+## Abstract
+
+Adapting to growing climate change risks and achieving climate resilient development requires making finance consistent with this goal, as called for by Article 2.1c of the Paris Agreement. To assess progress and help inform policies to increase the climate resilience of finance flows and stocks, major conceptual and data gaps need to be filled. This paper explores possible methods, data and metrics to help fill those gaps. It takes stock of existing approaches and data to assess physical climate risks in finance, and then identifies complementary analytical dimensions, data and information needed for assessing the alignment of finance flows and stocks with climate resilience policy goals. In this context, the paper proposes actions that policymakers, researchers and market players can take to support credible and comparable assessments, as well as identifies the need for pilot studies to help adjust and refine the approach while identifying feasible and practical indicators.
