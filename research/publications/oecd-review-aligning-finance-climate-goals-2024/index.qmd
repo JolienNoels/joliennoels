@@ -1,0 +1,18 @@
+---
+title: "OECD Review on Aligning Finance with Climate Goals"
+subtitle: "Assessing Progress to Net Zero and Preventing Greenwashing"
+date: 2024-10-31
+author:
+  - name: OECD
+categories: 
+  - OECD
+  - Sustainable Finance
+  - Net zero
+Link: <a href='https://doi.org/10.1787/b9b7ce49-en'>Link</a>
+---
+
+[Link to the publication](https://doi.org/10.1787/b9b7ce49-en)
+
+## Abstract
+
+Aligning finance with climate policy goals is crucial for achieving net-zero greenhouse gas emissions and resilience to climate change, as called for by Article 2.1c of the Paris Agreement. Evidence-based policy making and investment decisions towards such alignment need to be informed by robust assessments. To support such efforts, this inaugural OECD Review on Aligning Finance with Climate Goals brings together best-available evidence on three core questions: (i) How is climate alignment of finance assessed? (ii) What do we know about current finance flows and stocks? (iii) What evidence exists on the role of financial sector policies and actions? The report identifies actions policymakers and financial sector stakeholders can take to improve the evidence base and better align finance with climate goals. It further sets out good practices to prevent greenwashing and inaccurate claims of climate alignment.
