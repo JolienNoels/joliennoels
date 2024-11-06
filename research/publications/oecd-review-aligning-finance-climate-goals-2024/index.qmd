@@ -8,7 +8,7 @@ categories:
   - OECD
   - Sustainable Finance
   - Net zero
-Link: <a href='https://doi.org/10.1787/b9b7ce49-en'>Link</a>
+Link: <a href='https://www.oecd-ilibrary.org/environment/oecd-review-on-aligning-finance-with-climate-goals_b9b7ce49-en'>Link</a>
 ---
 
 [Link to the publication](https://doi.org/10.1787/b9b7ce49-en)
