@@ -1,0 +1,24 @@
+---
+title: "Some graphs on financial assets"
+date: "2024-11-09"
+author: "Jolien Noels"
+categories: [blog, data visualisation]
+preview: images/asset-sizes.png
+---
+
+Some graphs I made showing the evolution of the size of different financial asset classes.
+
+::: {.panel-tabset}
+
+## Volume
+
+
+![](images/asset-sizes.png) Data sources: SIFMA, McKinsey via Preqin, WFE, OECD.
+
+
+## Growth rate
+
+
+![](images/asset-growth-rates.png) Data sources: SIFMA, McKinsey via Preqin, WFE, OECD.
+
+:::
