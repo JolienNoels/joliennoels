@@ -1,0 +1,5 @@
+---
+title: "Size of financial asset classes"
+date: 2024-11-20
+image: asset-sizes.png
+---

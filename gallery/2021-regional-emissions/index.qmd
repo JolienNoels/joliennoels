@@ -1,0 +1,13 @@
+---
+title: "Emissions intensity across OECD regions"
+date: 2022-03-01
+image: regional-emissions-gallery.png
+link: "https://doi.org/10.1787/17017efe-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/17017efe-en)
+
+![](regional-emissions.png)

@@ -1,0 +1,15 @@
+---
+title: "Scenarios used in climate-alignment assessments of finance"
+date: 2023-09-28
+image: paris-consistency-climate-scenarios.png
+link: "https://doi.org/10.1787/bcd25b82-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/bcd25b82-en)
+
+paris-consistency-climate-scenarios.png)
+
+Paris consistency of global climate change mitigation scenarios

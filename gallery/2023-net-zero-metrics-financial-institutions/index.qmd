@@ -1,0 +1,12 @@
+---
+title: "Net-zero metrics for financial institutions"
+date: 2023-12-05
+image: net-zero-metrics-financial-institutions-gallery.png
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/dedcfe56-en)
+
+![](net-zero-metrics-financial-institutions.png)

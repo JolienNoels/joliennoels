@@ -93,5 +93,34 @@
       "/research/publications/tpi-state-of-the-transition-2019/index.html",
       "/research/publications/tpi-state-of-the-transition-2020/index.html"
     ]
+  },
+  {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/visuals/2024-climate-alignment-finance-infographic1/index.html",
+      "/gallery/visuals/2024-climate-alignment-finance/index.html"
+    ]
+  },
+  {
+    "listing": "/gallery.html",
+    "items": [
+      "/gallery/2024-asset-classes/index.html",
+      "/gallery/2024-bank-financing/index.html",
+      "/gallery/2024-climate-alignment-finance-infographic1/index.html",
+      "/gallery/2024-climate-alignment-finance-infographic2/index.html",
+      "/gallery/2024-real‑economy-investments/index.html",
+      "/gallery/country-climate-related-financial-sector-policy/index.html",
+      "/gallery/overview-sustainable-development-finance-actors-instruments/index.html",
+      "/gallery/sources-global-climate-finance/index.html",
+      "/gallery/2023-net-zero-metrics-financial-institutions/index.html",
+      "/gallery/2023-climate-scenarios-financial-analyses/index.html",
+      "/gallery/paris-consistency-mitigation-scenarios /index.html",
+      "/gallery/scenarios-climate-alignment-assessments-finance/index.html",
+      "/gallery/2023-regional-emissions-employment-basic-metals/index.html",
+      "/gallery/2022-climate-alignment-methodologies/index.html",
+      "/gallery/2022-corporate-climate-ratings/index.html",
+      "/gallery/2021-regional-emissions/index.html",
+      "/gallery/2021-regional-coal-energy/index.html"
+    ]
   }
 ]

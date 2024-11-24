@@ -1,0 +1,13 @@
+---
+title: "Climate scenarios for financial sector analysis"
+date: 2023-09-28
+image: climate-scenarios-for-finance-gallery.png
+link: "https://doi.org/10.1787/bcd25b82-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/bcd25b82-en)
+
+![](climate-scenarios-for-finance.png)

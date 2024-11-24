@@ -1,0 +1,28 @@
+---
+title: "Climate (mis)alignment across asset classes"
+date: 2024-10-31
+image: asset-classes-alignment-climate-gallery.png
+link: "https://doi.org/10.1787/b9b7ce49-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/b9b7ce49-en)
+
+# Estimates of listed corporate equity in low‑ and high‑GHG activities
+![](listed-equity-alignment-mitigation.png)
+
+# Alignment assessments of climate targets of listed equity assets across providers
+![](listed-equity-mitigation-alignment-ratings.png)
+
+# Estimates of (mis)alignment in private equity
+![](private-equity-alignment-mitigation.png)
+
+# Estimates of (mis)alignment in corporate debt
+![](corporate-bonds-alignment-mitigation.png)
+
+# Estimates of (mis)alignment in sovereign bonds
+![](sovereign-bonds-alignment-mitigation.png)
+
+

@@ -1,0 +1,13 @@
+---
+title: "Diverging corporate climate ratings across providers"
+date: 2022-10-04
+image: corporate-climate-ratings-gallery.png
+link: "https://doi.org/10.1787/d12005e7-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/d12005e7-en)
+
+![](corporate-climate-ratings.png)

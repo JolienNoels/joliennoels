@@ -1,0 +1,14 @@
+---
+title: "Assessing the climate alignment of finance"
+date: 2022-10-04
+image: climate-alignment-methodologies-gallery.png
+link: "https://doi.org/10.1787/d12005e7-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/d12005e7-en)
+
+![](climate-alignment-methodologies.png)
+

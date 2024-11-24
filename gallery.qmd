@@ -1,0 +1,15 @@
+---
+subtitle: "A collection of visuals summarising some of my work"
+listing:
+  - contents: "gallery/*/index.qmd"
+    type: grid
+    sort: "date desc"
+    categories: true
+    table-striped: true
+    fields: [date, title, image]
+    image-align: left
+page-layout: full
+include-back-link: false
+toc-location: right
+title-block-banner: true
+---

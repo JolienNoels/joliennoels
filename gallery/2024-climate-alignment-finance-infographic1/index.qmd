@@ -1,0 +1,13 @@
+---
+title: "Climate alignment of finance"
+date: 2024-10-31
+image: climate-alignment-finance-infographic1-gallery.png
+link: "https://doi.org/10.1787/b9b7ce49-en"
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/b9b7ce49-en)
+
+![](climate-alignment-finance-infographic1.png)

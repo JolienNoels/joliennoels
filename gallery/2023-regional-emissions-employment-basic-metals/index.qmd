@@ -1,0 +1,12 @@
+---
+title: "Regional employment and emissions in basic metals manufacturing"
+date: 2023-02-15
+image: regional-emissions-employment-basic-metals-gallery.png
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/35247cc7-en)
+
+![](regional-emissions-employment-basic-metals.png)
