@@ -1,6 +1,6 @@
 ---
 title: "TPI State of Transition Report 2020"
-date: 2018-11-25
+date: 2020-03-20
 author:
   - name: Simon Dietz
   - name: Rhoda Byrne
@@ -12,7 +12,8 @@ author:
 categories: 
   - LSE TPI
   - Sustainable Finance
-Link: <a href='https://joliennoels.com/files/TPI-State-of-the-Transition-2020.pdf'>Link</a>
+Link: <a href='https://www.transitionpathwayinitiative.org/publications/uploads/2020-tpi-state-of-transition-report-2020.pdf'>Link</a>
 ---
+[Link to the publication](https://www.transitionpathwayinitiative.org/publications/uploads/2020-tpi-state-of-transition-report-2020.pdf)
 
 [Link to the presentation](https://www.transitionpathwayinitiative.org/publications/uploads/2020-state-of-the-transition-presentation)
