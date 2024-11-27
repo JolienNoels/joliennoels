@@ -3,22 +3,22 @@ title: "Some graphs on financial assets"
 date: "2024-11-09"
 author: "Jolien Noels"
 categories: [blog, data visualisation]
-preview: images/asset-sizes.png
+preview: images/eqfi-sizes.png
 ---
 
 Some graphs I made showing the evolution of the size of different financial asset classes.
 
-::: {.panel-tabset}
+::: panel-tabset
+## Equity v Fixed Income
 
-## Volume
+![](images/eqfi-sizes.png)
 
+## Equity
 
-![](images/asset-sizes.png) Data sources: SIFMA, McKinsey via Preqin, WFE, OECD.
+![](images/equity-sizes.png) 
 
+## Debt
 
-## Growth rate
-
-
-![](images/asset-growth-rates.png) Data sources: SIFMA, McKinsey via Preqin, WFE, OECD.
+![](images/debt-sizes.png) 
 
 :::
