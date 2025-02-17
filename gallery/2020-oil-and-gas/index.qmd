@@ -1,0 +1,14 @@
+---
+title: "Steel companies' climate target ambitiousness in 2020"
+date: 2020-05-20
+image: carbon-performance-og.jpg
+link: "https://www.transitionpathwayinitiative.org/publications/uploads/2020-carbon-performance-of-european-integrated-oil-and-gas-companies-briefing-paper"
+categories: 
+  - TPI
+  - Sustainable Finance
+---
+
+[Link to the publication](https://www.transitionpathwayinitiative.org/publications/uploads/2020-carbon-performance-of-european-integrated-oil-and-gas-companies-briefing-papers)
+[Science journal article](https://www.science.org/doi/10.1126/science.abh0687)
+
+![](carbon-performance-og.jpg)

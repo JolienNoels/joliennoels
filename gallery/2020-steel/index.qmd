@@ -1,0 +1,13 @@
+---
+title: "Steel companies' climate target ambitiousness in 2020"
+date: 2020-02-20
+image: tpi-fig.jpg
+link: "https://www.transitionpathwayinitiative.org/publications/uploads/2020-management-quality-and-carbon-performance-of-industrials-and-materials-companies"
+categories: 
+  - TPI
+  - Sustainable Finance
+---
+
+[Link to the publication](https://www.transitionpathwayinitiative.org/publications/uploads/2020-management-quality-and-carbon-performance-of-industrials-and-materials-companies)
+
+![](tpi-fig.jpg)
