@@ -1,0 +1,12 @@
+---
+title: "Firm productivity in transition sectors in EU transition regions"
+date: 2023-02-15
+image: firm-productivity.png
+link: "https://doi.org/10.1787/35247cc7-en"
+categories: 
+  - OECD
+---
+
+[Link to the publication](https://doi.org/10.1787/35247cc7-en)
+
+![](firm-productivity.png)
