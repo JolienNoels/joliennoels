@@ -43,10 +43,10 @@ events_data <- tibble(
   Event = c(
     "UN Geneva Net Zero Symposium",
     "OECD COP29 Virtual Pavilion",
-    "Sustainability Data EMEA 2024",
+    "Environmental Finance Sustainability Data EMEA 2024",
     "OECD Forum on Green Finance and Investment",
     "OECD-NGFS Workshop",
-    "IFC Workshop on Addressing Climate Change Data Needs: The Global Debate and Central Banks' contribution",
+    "IFC (BIS) Workshop on Addressing Climate Change Data Needs: The Global Debate and Central Banks' contribution",
     "Global Forum on the Environment and Climate Change",
     "17th Financial Risks International Forum",
     "Green Finance Research Advances",
