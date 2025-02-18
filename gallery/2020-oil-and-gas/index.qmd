@@ -1,5 +1,5 @@
 ---
-title: "Steel companies' climate target ambitiousness in 2020"
+title: "O&G companies' climate target ambitiousness in 2020"
 date: 2020-05-20
 image: carbon-performance-og.jpg
 link: "https://www.transitionpathwayinitiative.org/publications/uploads/2020-carbon-performance-of-european-integrated-oil-and-gas-companies-briefing-paper"
