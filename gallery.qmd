@@ -1,5 +1,5 @@
 ---
-subtitle: "A collection of visuals summarising some of my work"
+subtitle: "A collection of visuals summarising some of my data analysis and research"
 listing:
   - contents: "gallery/*/index.qmd"
     type: grid
