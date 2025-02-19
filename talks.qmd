@@ -113,7 +113,7 @@ events_data <- tibble(
     "https://www.oecd-events.org/oecd-forum-on-green-finance-and-investment/session/a9056ac1-4c01-ee11-907a-002248859577",
     "https://unfccc.int/sites/default/files/resource/2023-07-20-workshop-pa-2.1c-oecd.pdf",
     "",
-    "https://www.oecd.org/environment/cc/workshoponmetricsforclimatetransitionandnet-zeroghgsinfinance-supportingclimatepolicygoalsandavoidinggreenwashing.htm",
+    "https://www.oecd.org/en/events/2023/02/workshop-on-metrics-for-climate-transition-and-net-zero-ghgs-in-finance---supporting-climate-policy-goals-and-avoiding-greenwashing.html",
     "",
     "",
     "",
