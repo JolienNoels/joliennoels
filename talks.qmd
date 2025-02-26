@@ -99,7 +99,7 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
-    "https://www.eventcreate.com/e/genevanetzerosymposium",
+    "",
     "https://www.oecd-events.org/cop29/session/53f18183-6481-ef11-9c35-6045bd89b60c/aligning-finance-with-climate-goals-assessing-progress-to-net-zero-and-preventing-greenwashing",
     "https://www.environmental-finance.com/content/events/sustainability-data-emea/agenda.html",
     "https://www.oecd-events.org/oecd-forum-on-green-finance-and-investment-2024/session/209d7479-292a-ef11-86d2-000d3abd5c23",
