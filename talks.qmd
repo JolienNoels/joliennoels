@@ -10,8 +10,9 @@ library(tidyverse)
 
 # Creating a data frame with the information
 events_data <- tibble(
-  Year = c(2025, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
+  Year = c(2025, 2025, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
   Date = c(
+    "March-14",
     "Feb-25",
     "Nov-7",
     "Oct-17",
@@ -41,6 +42,7 @@ events_data <- tibble(
     "May-16"
   ),
   Event = c(
+    "OECD Clean Energy and Investment Training - Philippines",
     "UN Geneva Net Zero Symposium",
     "OECD COP29 Virtual Pavilion",
     "Environmental Finance Sustainability Data EMEA 2024",
@@ -70,6 +72,7 @@ events_data <- tibble(
     "Presentation to ETION, London School of Economics"
   ),
   Title = c(
+    "Sustainable finance market trends",
     "Progress towards aligning finance with climate goals",
     "Aligning finance with climate goals: Assessing progress to net zero and preventing greenwashing",
     "Exploring the impact of regulation on the ESG data landscape",
@@ -99,6 +102,7 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
+    "",
     "",
     "https://www.oecd-events.org/cop29/session/53f18183-6481-ef11-9c35-6045bd89b60c/aligning-finance-with-climate-goals-assessing-progress-to-net-zero-and-preventing-greenwashing",
     "https://www.environmental-finance.com/content/events/sustainability-data-emea/agenda.html",
