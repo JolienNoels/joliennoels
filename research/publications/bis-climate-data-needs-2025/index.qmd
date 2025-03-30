@@ -1,0 +1,20 @@
+---
+title: "Addressing climate change data needs"
+subtitle: "The global debate and central banks’ contribution"
+date: 2025-03-28
+author:
+  - name: David Nefzi
+  - name: Jolien Noels
+  - name: Romana Peronaci
+  - name: Christian Schmieder
+  - name: Ünal Seven
+  - name: Ömer K Seyhun
+  - name: Bruno Tissot
+  - name: Elena Triebskorn
+categories: 
+  - BIS
+  - Sustainable Finance
+Link: <a href='https://www.bis.org/ifc/publ/ifcb63_01_rh.pdf'>Link</a>
+---
+
+[Link to the publication](https://www.bis.org/ifc/publ/ifcb63.htm)

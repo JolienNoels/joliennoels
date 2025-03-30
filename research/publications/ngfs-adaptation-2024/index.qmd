@@ -1,0 +1,13 @@
+---
+title: "NGFS Conceptual Note on Adaptation"
+date: 2024-11-25
+author:
+  - name: NGFS
+categories: 
+  - NGFS
+  - Sustainable Finance
+  - Adaptation
+Link: <a href='https://www.ngfs.net/system/files/import/ngfs/medias/documents/ngfs_conceptual_note_on_adaptation.pdf'>Link</a>
+---
+
+[Link to the publication](https://www.ngfs.net/en/publications-and-statistics/publications/ngfs-conceptual-note-adaptation)
