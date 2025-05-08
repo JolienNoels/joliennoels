@@ -17,7 +17,7 @@ website:
       - text: Articles
         href: articles.qmd 
       - text: Code 
-        href: https://github.com/JolienNoels?tab=repositories
+        href: https://github.com/JolienNoels
   back-to-top-navigation: true
   google-analytics: "G-ZPQSTB411C"
 
