@@ -1,0 +1,15 @@
+---
+title: "Investing in Climate for Growth and Development"
+subtitle: "The Case for Enhanced NDCs"
+date: 2025-06-10
+author:
+  - name: OECD
+categories: 
+  - OECD
+Link: <a href='https://doi.org/10.1787/16b7cbc7-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd.org/en/publications/investing-in-climate-for-growth-and-development_16b7cbc7-en.html)
+
+## Integrated pathways for NDC financing: Public, Private, and International Contributions and Actions
+![](ndc-financing-policy-actions.png)
