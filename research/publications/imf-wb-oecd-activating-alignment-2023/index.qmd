@@ -13,6 +13,7 @@ author:
 categories: 
   - OECD
   - Sustainable Finance
+  - G20
 Link: <a href='https://www.imf.org/external/np/g20/091323.htm'>Link</a>
 ---
 

@@ -17,5 +17,5 @@ categories:
 Link: <a href='https://www.bis.org/ifc/publ/ifcb63_01_rh.pdf'>Link</a>
 ---
 
-[Link to the publication](https://www.bis.org/ifc/publ/ifcb63.htm)
+[Link to the publication](https://www.bis.org/ifc/publ/ifcb63.htm). 
 [Link to SUERF policy brief](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/climate-data-needs-a-primer-for-central-banks/)
