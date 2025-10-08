@@ -1,0 +1,14 @@
+---
+title: "Leveraging physical climate risk data"
+date: 2025-09-30
+author:
+  - name: NGFS
+categories: 
+  - NGFS
+  - Sustainable Finance
+  - G20
+  - Adaptation
+Link: <a href='https://www.ngfs.net/en/publications-and-statistics/publications/leveraging-physical-climate-risk-data'>Link</a>
+---
+
+[Summary](https://www.ngfs.net/en/publications-and-statistics/publications/leveraging-physical-climate-risk-data)
