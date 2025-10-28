@@ -10,8 +10,9 @@ library(tidyverse)
 
 # Creating a data frame with the information
 events_data <- tibble(
-  Year = c(2025, 2025, 2025, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
+  Year = c(2025, 2025, 2025, 2025, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023, 2023, 2022, 2022, 2021, 2021, 2021, 2020, 2020, 2020, 2020, 2020, 2019, 2019),
   Date = c(
+    "Oct-15",
     "June-25",
     "March-14",
     "Feb-25",
@@ -43,6 +44,7 @@ events_data <- tibble(
     "May-16"
   ),
   Event = c(
+    "IACA Webinar",
     "OECD Workshop",
     "OECD Clean Energy and Investment Training - Philippines",
     "UN Geneva Net Zero Symposium",
@@ -74,6 +76,7 @@ events_data <- tibble(
     "Presentation to ETION, London School of Economics"
   ),
   Title = c(
+    "Aligning Finance with Climate Goals",
     "Climate transition metrics for the financial sector: translating targets into action",
     "Sustainable finance market trends",
     "Progress towards aligning finance with climate goals",
@@ -105,6 +108,7 @@ events_data <- tibble(
     "Transition progress to a carbon neutral world"
   ),
   Link = c(
+    "https://actuaries.org/event/aligning-finance-with-climate-goals/",
     "https://www.oecd.org/en/events/2025/06/climate-transition-metrics-for-the-financial-sector-translating-targets-into-action.html",
     "",
     "",
