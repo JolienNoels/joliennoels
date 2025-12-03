@@ -1,0 +1,12 @@
+---
+title: "Assessing the the climate resilience of finance"
+date: 2024-10-24
+image: resilience-finance-method-infograph.PNG
+categories: 
+  - OECD
+  - Sustainable Finance
+---
+
+[Link to the publication](https://doi.org/10.1787/9446d65e-en)
+
+![](resilience-finance-method.png)

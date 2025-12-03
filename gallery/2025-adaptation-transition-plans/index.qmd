@@ -1,0 +1,12 @@
+---
+title: "Integrating adaptation into transition plans"
+date: 2025-07-22
+image: adaptation-in-transition-plans-infograph.PNG
+categories: 
+  - NGFS
+  - Sustainable Finance
+---
+
+[Link to the publication](https://www.ngfs.net/en/publications-and-statistics/publications/ngfs-input-paper-integrating-adaptation-and-resilience-transition-plans)
+
+![](adaptation-in-transition-plans.png)

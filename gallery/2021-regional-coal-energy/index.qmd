@@ -5,13 +5,14 @@ image: coal-electricity-gallery.png
 link: "https://doi.org/10.1787/b9b7ce49-en"
 categories: 
   - OECD
-  - Sustainable Finance
 ---
 
 [Link to the publication](https://doi.org/10.1787/b9b7ce49-en)
 
 # Fewer OECD regions are adding new coal-fired electricity capacity
+
 ![](coal-electricity-eu-asia.png)
 
 # Most OECD regions, especially in the Americas, are no longer adding new coal-fired electricity capacity
+
 ![](coal-electricity-americas.png)
