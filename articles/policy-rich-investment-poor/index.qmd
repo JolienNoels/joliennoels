@@ -6,3 +6,5 @@ categories: [OECD, external]
 ---
 
 Please find my blog post on the OECD website: [Policy rich, investment poor: The climate alignment of finance is falling short](https://www.oecd.org/en/blogs/2025/12/policy-rich-investment-poor-the-climate-alignment-of-finance-is-falling-short.html)
+
+![](./climate-alignment-finance.png)
