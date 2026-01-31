@@ -1,0 +1,15 @@
+---
+title: "OECD Environmental Performance Reviews: Colombia 2026"
+date: 2026-10-28
+author:
+  - name: OECD
+categories: 
+  - OECD
+Link: <a href='https://doi.org/10.1787/968398f7-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd.org/en/publications/oecd-environmental-performance-reviews-colombia-2026_968398f7-en/full-report/towards-green-growth_37d91cbd.html#section-d1e10135-29916d3717)
+
+## Aligning finance and investment with climate goals in Colombia
+
+climate-alignment-economy.png.png)
