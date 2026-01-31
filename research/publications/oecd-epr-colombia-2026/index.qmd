@@ -12,4 +12,8 @@ Link: <a href='https://doi.org/10.1787/968398f7-en'>Link</a>
 
 ## Aligning finance and investment with climate goals in Colombia
 
-climate-alignment-economy.png.png)
+### Real-economy investment flows in clean and fossil fuel energy
+![](climate-alignment-economy.png)
+
+### Estimates of financial stocks and flows supporting or undermining climate goals
+![](climate-alignment-finance.png)
