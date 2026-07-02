@@ -1,0 +1,17 @@
+---
+title: "OECD Review on Aligning Finance with Climate Goals 2026"
+subtitle: "Different Policy Playbooks, Untapped Investment Opportunities"
+date: 2026-07-09
+author:
+  - name: OECD
+categories: 
+  - OECD
+  - Sustainable Finance
+Link: <a href='https://doi.org/10.1787/79415c38-en'>Link</a>
+---
+
+[Link to the publication](https://www.oecd.org/en/publications/oecd-review-on-aligning-finance-with-climate-goals-2026_79415c38-en.html)
+
+## Abstract
+
+Policymakers across continents are pursuing different policy playbooks to unlock large, untapped opportunities to transition financial flows. Policymakers globally have continued to expand the number and mix of climate-related financial sector policies, continuing trends observed in the first edition of this review. In doing so, countries across geographies adopt different policy playbooks, relying more on mandatory transparency measures, voluntary frameworks, or risk management and supervision tools. Owing to their novelty, empirical evidence on the effectiveness of these policies remains scarce. To incentivise climate-aligned investments, real-economy policies (such as fiscal instruments and regulatory standards), remain core levers, which climate-related financial sector policies build upon but cannot substitute. Since the previous edition, climate alignment has advanced for some financial flows but large opportunities to transition financial flows remain untapped. While real-economy investments in clean energy are on the rise, fossil fuel financing across most financial asset classes continues to outpace low-carbon financing. Climate-alignment trends of corporate debt instruments are diverging, with growth in green-labelled syndicated loans but shrinking momentum in the greening of bond markets since 2022. Data and metrics to track the climate alignment of finance are increasingly available, but gaps remain in identifying transition opportunities and tracking more opaque financial asset classes.
