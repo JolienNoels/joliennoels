@@ -1,5 +1,6 @@
 ---
 title: "Sustainability data issues and central banks' experience"
+subtitle: "The quest for policy-relevant sustainability data in central banking"
 date: 2026-09-01
 author:
   - name: Andréa Barnava
