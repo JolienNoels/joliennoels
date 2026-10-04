@@ -1,0 +1,20 @@
+---
+title: "Sustainability data issues and central banks' experience"
+date: 2026-09-01
+author:
+  - name: Andréa Barnava
+  - name: Patty Duijm
+  - name: Jolien Noels
+  - name: Christian Schmieder
+  - name: Ünal Seven
+  - name: Ömer K Seyhun
+  - name: Olivier Sirello
+  - name: Bruno Tissot
+  - name: Elena Triebskorn
+categories: 
+  - BIS
+  - Sustainable Finance
+Link: <a href='https://www.bis.org/publications/ifc-bulletin-68-sustainability-data-issues-and-central-banks-experience'>Link</a>
+---
+
+[Link to the publication](https://www.bis.org/publications/ifc-bulletin-68-sustainability-data-issues-and-central-banks-experience)
